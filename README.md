@@ -144,15 +144,18 @@ market-analyzer/
 
 ### Prerequisites
 - Node.js 18+
-- API keys in `.env` (project root):
+- **Your own API keys** in a `.env` file at the project root (this file is gitignored — never shared):
 
 ```env
-ANTHROPIC_API_KEY=sk-ant-...
-FINNHUB_KEY=your_finnhub_key
+ANTHROPIC_API_KEY=sk-ant-...      # your own key from console.anthropic.com
+FINNHUB_KEY=your_finnhub_key      # your own key from finnhub.io
 ```
 
-Finnhub free tier: https://finnhub.io  
-Anthropic API: https://console.anthropic.com
+> ⚠️ You must register for these services yourself and use your own keys.  
+> The repo does not include any API keys.
+
+- Finnhub free tier (no credit card): https://finnhub.io  
+- Anthropic API (pay-per-use, Haiku is very cheap): https://console.anthropic.com
 
 ### Install
 
