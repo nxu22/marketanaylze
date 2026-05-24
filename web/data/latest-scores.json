@@ -1,0 +1,2093 @@
+{
+  "refreshedAt": "2026-05-19T03:12:56.392Z",
+  "scores": [
+    {
+      "ticker": "SOXX",
+      "score": 2.33,
+      "signal": "AVOID",
+      "timestamp": "2026-05-19T03:12:36.513Z",
+      "breakdown": [
+        {
+          "factor": "价格回撤",
+          "rawValue": -0.071,
+          "displayValue": "-7.1%",
+          "points": 0,
+          "maxPoints": 2.5,
+          "explanation": "股价距离近期高点仅下跌 7.1%，仍处于相对高位，当前价格安全边际不足",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "市场恐慌度(VIX)",
+          "rawValue": 17.82,
+          "displayValue": "17.82",
+          "points": 0.15,
+          "maxPoints": 1.5,
+          "explanation": "市场非常平静（VIX 17.8），大家普遍乐观，这种时候反而需要提防市场过热带来的追高风险",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "恐贪指数",
+          "rawValue": 25,
+          "displayValue": "25/100 (Extreme Fear)",
+          "points": 1.05,
+          "maxPoints": 1.5,
+          "explanation": "市场偏向恐惧（恐贪指数 25），整体情绪悲观但还没到极端，属于比较适合布局的区间",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "国债收益率",
+          "rawValue": 4.62,
+          "displayValue": "4.62%",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "10年期国债收益率 4.62%，利率偏高，资金成本上升，高估值股票承受的压力较大",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "估值(市盈率)",
+          "rawValue": 45.515217,
+          "displayValue": "45.5x",
+          "points": 0.3,
+          "maxPoints": 1.5,
+          "explanation": "市盈率 45.5 倍，估值偏贵，投资者对公司未来增长有很高预期，如果增长不及预期则压力较大",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "做空比率",
+          "rawValue": null,
+          "displayValue": "N/A",
+          "points": 0.24,
+          "maxPoints": 0.64,
+          "explanation": "没有可用的做空数据，按中性分处理",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "新闻情绪",
+          "rawValue": 2,
+          "displayValue": "negative",
+          "points": 0.14,
+          "maxPoints": 0.7,
+          "explanation": "芯片股估值严重超涨，触及历史泡沫水平，同时英伟达面临中国市场竞争压力，分析师发出警告信号。近期出现一些偏负面的消息，需要留意潜在风险",
+          "sentiment": "negative"
+        }
+      ],
+      "refreshedAt": "2026-05-19T03:12:36.513Z"
+    },
+    {
+      "ticker": "NVDA",
+      "score": 2.92,
+      "signal": "AVOID",
+      "timestamp": "2026-05-19T03:12:37.207Z",
+      "breakdown": [
+        {
+          "factor": "价格回撤",
+          "rawValue": -0.0601,
+          "displayValue": "-6.0%",
+          "points": 0,
+          "maxPoints": 2.5,
+          "explanation": "股价距离近期高点仅下跌 6.0%，仍处于相对高位，当前价格安全边际不足",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "市场恐慌度(VIX)",
+          "rawValue": 17.82,
+          "displayValue": "17.82",
+          "points": 0.15,
+          "maxPoints": 1.5,
+          "explanation": "市场非常平静（VIX 17.8），大家普遍乐观，这种时候反而需要提防市场过热带来的追高风险",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "恐贪指数",
+          "rawValue": 25,
+          "displayValue": "25/100 (Extreme Fear)",
+          "points": 1.05,
+          "maxPoints": 1.5,
+          "explanation": "市场偏向恐惧（恐贪指数 25），整体情绪悲观但还没到极端，属于比较适合布局的区间",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "国债收益率",
+          "rawValue": 4.62,
+          "displayValue": "4.62%",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "10年期国债收益率 4.62%，利率偏高，资金成本上升，高估值股票承受的压力较大",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "估值(市盈率)",
+          "rawValue": 45.464214,
+          "displayValue": "45.5x",
+          "points": 0.3,
+          "maxPoints": 1.5,
+          "explanation": "市盈率 45.5 倍，估值偏贵，投资者对公司未来增长有很高预期，如果增长不及预期则压力较大",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "做空比率",
+          "rawValue": 1.84,
+          "displayValue": "1.84天",
+          "points": 0.48,
+          "maxPoints": 0.64,
+          "explanation": "空头比率 1.84 天，做空比例较低，整体多头氛围较强",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "新闻情绪",
+          "rawValue": 7,
+          "displayValue": "positive",
+          "points": 0.49,
+          "maxPoints": 0.7,
+          "explanation": "英伟达与戴尔推出新型边缘AI产品，同时公司即将公布Q1财报，市场对其增长前景保持关注。近期新闻整体积极，有正面催化剂出现，影响偏利多",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T03:12:37.207Z"
+    },
+    {
+      "ticker": "AMD",
+      "score": 3.53,
+      "signal": "WAIT",
+      "timestamp": "2026-05-19T03:12:35.844Z",
+      "breakdown": [
+        {
+          "factor": "价格回撤",
+          "rawValue": -0.1028,
+          "displayValue": "-10.3%",
+          "points": 0.75,
+          "maxPoints": 2.5,
+          "explanation": "股价从高点下跌了 10.3%，有一定的买入安全边际，但空间不算大",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "市场恐慌度(VIX)",
+          "rawValue": 17.82,
+          "displayValue": "17.82",
+          "points": 0.15,
+          "maxPoints": 1.5,
+          "explanation": "市场非常平静（VIX 17.8），大家普遍乐观，这种时候反而需要提防市场过热带来的追高风险",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "恐贪指数",
+          "rawValue": 25,
+          "displayValue": "25/100 (Extreme Fear)",
+          "points": 1.05,
+          "maxPoints": 1.5,
+          "explanation": "市场偏向恐惧（恐贪指数 25），整体情绪悲观但还没到极端，属于比较适合布局的区间",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "国债收益率",
+          "rawValue": 4.62,
+          "displayValue": "4.62%",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "10年期国债收益率 4.62%，利率偏高，资金成本上升，高估值股票承受的压力较大",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "估值(市盈率)",
+          "rawValue": 139.86378,
+          "displayValue": "139.9x",
+          "points": 0,
+          "maxPoints": 1.5,
+          "explanation": "市盈率高达 139.9 倍，估值很高，当前价格已充分甚至超额反映了未来的增长预期",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "做空比率",
+          "rawValue": 0.9,
+          "displayValue": "0.90天",
+          "points": 0.64,
+          "maxPoints": 0.64,
+          "explanation": "空头比率仅 0.90 天，做空力量极弱，说明市场对这只股票整体持看多态度",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "新闻情绪",
+          "rawValue": 7,
+          "displayValue": "positive",
+          "points": 0.49,
+          "maxPoints": 0.7,
+          "explanation": "AMD获得分析师维持增持评级和上调目标价,服务器CPU业务有望在5年内大幅增长,显示长期增长潜力。近期新闻整体积极，有正面催化剂出现，影响偏利多",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T03:12:35.844Z"
+    },
+    {
+      "ticker": "AVGO",
+      "score": 2.46,
+      "signal": "AVOID",
+      "timestamp": "2026-05-19T03:12:36.934Z",
+      "breakdown": [
+        {
+          "factor": "价格回撤",
+          "rawValue": -0.0489,
+          "displayValue": "-4.9%",
+          "points": 0,
+          "maxPoints": 2.5,
+          "explanation": "股价距离近期高点仅下跌 4.9%，仍处于相对高位，当前价格安全边际不足",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "市场恐慌度(VIX)",
+          "rawValue": 17.82,
+          "displayValue": "17.82",
+          "points": 0.15,
+          "maxPoints": 1.5,
+          "explanation": "市场非常平静（VIX 17.8），大家普遍乐观，这种时候反而需要提防市场过热带来的追高风险",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "恐贪指数",
+          "rawValue": 25,
+          "displayValue": "25/100 (Extreme Fear)",
+          "points": 1.05,
+          "maxPoints": 1.5,
+          "explanation": "市场偏向恐惧（恐贪指数 25），整体情绪悲观但还没到极端，属于比较适合布局的区间",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "国债收益率",
+          "rawValue": 4.62,
+          "displayValue": "4.62%",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "10年期国债收益率 4.62%，利率偏高，资金成本上升，高估值股票承受的压力较大",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "估值(市盈率)",
+          "rawValue": 82.65422,
+          "displayValue": "82.7x",
+          "points": 0,
+          "maxPoints": 1.5,
+          "explanation": "市盈率高达 82.7 倍，估值很高，当前价格已充分甚至超额反映了未来的增长预期",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "做空比率",
+          "rawValue": 2.28,
+          "displayValue": "2.28天",
+          "points": 0.32,
+          "maxPoints": 0.64,
+          "explanation": "空头比率 2.28 天，存在一定的做空力量，需关注空头是否会带来短期压力",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "新闻情绪",
+          "rawValue": 7,
+          "displayValue": "positive",
+          "points": 0.49,
+          "maxPoints": 0.7,
+          "explanation": "Broadcom获得分析师上调目标价和买入评级，AI收入预期大幅增长140%，机构投资者持续增持该股。近期新闻整体积极，有正面催化剂出现，影响偏利多",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T03:12:36.934Z"
+    },
+    {
+      "ticker": "MU",
+      "score": 4.13,
+      "signal": "WAIT",
+      "timestamp": "2026-05-19T03:12:35.973Z",
+      "breakdown": [
+        {
+          "factor": "价格回撤",
+          "rawValue": -0.1675,
+          "displayValue": "-16.8%",
+          "points": 0.75,
+          "maxPoints": 2.5,
+          "explanation": "股价从高点下跌了 16.8%，有一定的买入安全边际，但空间不算大",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "市场恐慌度(VIX)",
+          "rawValue": 17.82,
+          "displayValue": "17.82",
+          "points": 0.15,
+          "maxPoints": 1.5,
+          "explanation": "市场非常平静（VIX 17.8），大家普遍乐观，这种时候反而需要提防市场过热带来的追高风险",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "恐贪指数",
+          "rawValue": 25,
+          "displayValue": "25/100 (Extreme Fear)",
+          "points": 1.05,
+          "maxPoints": 1.5,
+          "explanation": "市场偏向恐惧（恐贪指数 25），整体情绪悲观但还没到极端，属于比较适合布局的区间",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "国债收益率",
+          "rawValue": 4.62,
+          "displayValue": "4.62%",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "10年期国债收益率 4.62%，利率偏高，资金成本上升，高估值股票承受的压力较大",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "估值(市盈率)",
+          "rawValue": 32.208885,
+          "displayValue": "32.2x",
+          "points": 0.6,
+          "maxPoints": 1.5,
+          "explanation": "市盈率 32.2 倍，估值中等偏高，市场愿意为其成长预期付出一定溢价",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "做空比率",
+          "rawValue": 0.84,
+          "displayValue": "0.84天",
+          "points": 0.64,
+          "maxPoints": 0.64,
+          "explanation": "空头比率仅 0.84 天，做空力量极弱，说明市场对这只股票整体持看多态度",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "新闻情绪",
+          "rawValue": 7,
+          "displayValue": "positive",
+          "points": 0.49,
+          "maxPoints": 0.7,
+          "explanation": "美光获得美银升级评级支撑，AI芯片需求推动利润创新高，但三星罢工威胁芯片供应链。近期新闻整体积极，有正面催化剂出现，影响偏利多",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T03:12:35.973Z"
+    },
+    {
+      "ticker": "CEG",
+      "score": 5.47,
+      "signal": "WATCH",
+      "timestamp": "2026-05-19T03:12:40.604Z",
+      "breakdown": [
+        {
+          "factor": "价格回撤",
+          "rawValue": -0.3652,
+          "displayValue": "-36.5%",
+          "points": 1.75,
+          "maxPoints": 2.5,
+          "explanation": "股价从高点回落 36.5%，处于历史上较有吸引力的买入区间，安全边际比较充足",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "市场恐慌度(VIX)",
+          "rawValue": 17.82,
+          "displayValue": "17.82",
+          "points": 0.15,
+          "maxPoints": 1.5,
+          "explanation": "市场非常平静（VIX 17.8），大家普遍乐观，这种时候反而需要提防市场过热带来的追高风险",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "恐贪指数",
+          "rawValue": 25,
+          "displayValue": "25/100 (Extreme Fear)",
+          "points": 1.05,
+          "maxPoints": 1.5,
+          "explanation": "市场偏向恐惧（恐贪指数 25），整体情绪悲观但还没到极端，属于比较适合布局的区间",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "国债收益率",
+          "rawValue": 4.62,
+          "displayValue": "4.62%",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "10年期国债收益率 4.62%，利率偏高，资金成本上升，高估值股票承受的压力较大",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "估值(市盈率)",
+          "rawValue": 23.206377,
+          "displayValue": "23.2x",
+          "points": 1.05,
+          "maxPoints": 1.5,
+          "explanation": "市盈率 23.2 倍，估值合理，价格与当前盈利能力匹配较好，没有明显高估",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "做空比率",
+          "rawValue": 3.63,
+          "displayValue": "3.63天",
+          "points": 0.32,
+          "maxPoints": 0.64,
+          "explanation": "空头比率 3.63 天，存在一定的做空力量，需关注空头是否会带来短期压力",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "新闻情绪",
+          "rawValue": 10,
+          "displayValue": "strongly positive",
+          "points": 0.7,
+          "maxPoints": 0.7,
+          "explanation": "CEG公布收入增长64%并上调全年指引，同时与Pine Creek RNG达成长期合作协议，受益于AI电力需求和核能战略地位。近期有强力利好消息，且涉及多年期合同，通常对股价有持续性支撑",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T03:12:40.604Z"
+    },
+    {
+      "ticker": "VST",
+      "score": 5.47,
+      "signal": "WATCH",
+      "timestamp": "2026-05-19T03:12:40.399Z",
+      "breakdown": [
+        {
+          "factor": "价格回撤",
+          "rawValue": -0.3779,
+          "displayValue": "-37.8%",
+          "points": 1.75,
+          "maxPoints": 2.5,
+          "explanation": "股价从高点回落 37.8%，处于历史上较有吸引力的买入区间，安全边际比较充足",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "市场恐慌度(VIX)",
+          "rawValue": 17.82,
+          "displayValue": "17.82",
+          "points": 0.15,
+          "maxPoints": 1.5,
+          "explanation": "市场非常平静（VIX 17.8），大家普遍乐观，这种时候反而需要提防市场过热带来的追高风险",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "恐贪指数",
+          "rawValue": 25,
+          "displayValue": "25/100 (Extreme Fear)",
+          "points": 1.05,
+          "maxPoints": 1.5,
+          "explanation": "市场偏向恐惧（恐贪指数 25），整体情绪悲观但还没到极端，属于比较适合布局的区间",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "国债收益率",
+          "rawValue": 4.62,
+          "displayValue": "4.62%",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "10年期国债收益率 4.62%，利率偏高，资金成本上升，高估值股票承受的压力较大",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "估值(市盈率)",
+          "rawValue": 22.867893,
+          "displayValue": "22.9x",
+          "points": 1.05,
+          "maxPoints": 1.5,
+          "explanation": "市盈率 22.9 倍，估值合理，价格与当前盈利能力匹配较好，没有明显高估",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "做空比率",
+          "rawValue": 3.33,
+          "displayValue": "3.33天",
+          "points": 0.32,
+          "maxPoints": 0.64,
+          "explanation": "空头比率 3.33 天，存在一定的做空力量，需关注空头是否会带来短期压力",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "新闻情绪",
+          "rawValue": 10,
+          "displayValue": "strongly positive",
+          "points": 0.7,
+          "maxPoints": 0.7,
+          "explanation": "分析师上调VST收益预测24%,多年期负载增长和JPMorgan提升目标价,显示强劲增长前景。近期有强力利好消息，且涉及多年期合同，通常对股价有持续性支撑",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T03:12:40.399Z"
+    },
+    {
+      "ticker": "SMR",
+      "score": 5.08,
+      "signal": "WATCH",
+      "timestamp": "2026-05-19T03:12:40.542Z",
+      "breakdown": [
+        {
+          "factor": "价格回撤",
+          "rawValue": -0.8175,
+          "displayValue": "-81.7%",
+          "points": 2.5,
+          "maxPoints": 2.5,
+          "explanation": "股价已从近期高点大幅下跌 81.7%，属于罕见的深度打折区间，历史上往往是价值投资者出手的好机会",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "市场恐慌度(VIX)",
+          "rawValue": 17.82,
+          "displayValue": "17.82",
+          "points": 0.15,
+          "maxPoints": 1.5,
+          "explanation": "市场非常平静（VIX 17.8），大家普遍乐观，这种时候反而需要提防市场过热带来的追高风险",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "恐贪指数",
+          "rawValue": 25,
+          "displayValue": "25/100 (Extreme Fear)",
+          "points": 1.05,
+          "maxPoints": 1.5,
+          "explanation": "市场偏向恐惧（恐贪指数 25），整体情绪悲观但还没到极端，属于比较适合布局的区间",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "国债收益率",
+          "rawValue": 4.62,
+          "displayValue": "4.62%",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "10年期国债收益率 4.62%，利率偏高，资金成本上升，高估值股票承受的压力较大",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "估值(市盈率)",
+          "rawValue": -2.2,
+          "displayValue": "N/A",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "暂无有效的市盈率数据（公司可能处于亏损或数据缺失），按中性分处理，不额外加分也不扣分",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "做空比率",
+          "rawValue": 1.81,
+          "displayValue": "1.81天",
+          "points": 0.48,
+          "maxPoints": 0.64,
+          "explanation": "空头比率 1.81 天，做空比例较低，整体多头氛围较强",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "新闻情绪",
+          "rawValue": 0,
+          "displayValue": "strongly negative",
+          "points": 0,
+          "maxPoints": 0.7,
+          "explanation": "NuScale面临股东诉讼调查、目标价下调13.34%至17.81美元，主要合作方Fluor因成本超支被下调评级，存在重大风险。近期有较严重的负面新闻，对股价可能形成明显压力",
+          "sentiment": "negative"
+        }
+      ],
+      "refreshedAt": "2026-05-19T03:12:40.542Z"
+    },
+    {
+      "ticker": "CCJ",
+      "score": 4.08,
+      "signal": "WAIT",
+      "timestamp": "2026-05-19T03:12:41.175Z",
+      "breakdown": [
+        {
+          "factor": "价格回撤",
+          "rawValue": -0.2226,
+          "displayValue": "-22.3%",
+          "points": 1.25,
+          "maxPoints": 2.5,
+          "explanation": "股价已从高点回调 22.3%，进入了相对合理的买入区间，安全边际适中",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "市场恐慌度(VIX)",
+          "rawValue": 17.82,
+          "displayValue": "17.82",
+          "points": 0.15,
+          "maxPoints": 1.5,
+          "explanation": "市场非常平静（VIX 17.8），大家普遍乐观，这种时候反而需要提防市场过热带来的追高风险",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "恐贪指数",
+          "rawValue": 25,
+          "displayValue": "25/100 (Extreme Fear)",
+          "points": 1.05,
+          "maxPoints": 1.5,
+          "explanation": "市场偏向恐惧（恐贪指数 25），整体情绪悲观但还没到极端，属于比较适合布局的区间",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "国债收益率",
+          "rawValue": 4.62,
+          "displayValue": "4.62%",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "10年期国债收益率 4.62%，利率偏高，资金成本上升，高估值股票承受的压力较大",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "估值(市盈率)",
+          "rawValue": 97.351845,
+          "displayValue": "97.4x",
+          "points": 0,
+          "maxPoints": 1.5,
+          "explanation": "市盈率高达 97.4 倍，估值很高，当前价格已充分甚至超额反映了未来的增长预期",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "做空比率",
+          "rawValue": 1.96,
+          "displayValue": "1.96天",
+          "points": 0.48,
+          "maxPoints": 0.64,
+          "explanation": "空头比率 1.96 天，做空比例较低，整体多头氛围较强",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "新闻情绪",
+          "rawValue": 10,
+          "displayValue": "strongly positive",
+          "points": 0.7,
+          "maxPoints": 0.7,
+          "explanation": "卡麦科预期20个大型反应堆建设机遇,结合强劲增长和行业伙伴关系,为股价构成重大利好催化剂。近期有强力利好消息，且涉及多年期合同，通常对股价有持续性支撑",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T03:12:41.176Z"
+    },
+    {
+      "ticker": "ANET",
+      "score": 4.01,
+      "signal": "WAIT",
+      "timestamp": "2026-05-19T03:12:41.321Z",
+      "breakdown": [
+        {
+          "factor": "价格回撤",
+          "rawValue": -0.2118,
+          "displayValue": "-21.2%",
+          "points": 1.25,
+          "maxPoints": 2.5,
+          "explanation": "股价已从高点回调 21.2%，进入了相对合理的买入区间，安全边际适中",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "市场恐慌度(VIX)",
+          "rawValue": 17.82,
+          "displayValue": "17.82",
+          "points": 0.15,
+          "maxPoints": 1.5,
+          "explanation": "市场非常平静（VIX 17.8），大家普遍乐观，这种时候反而需要提防市场过热带来的追高风险",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "恐贪指数",
+          "rawValue": 25,
+          "displayValue": "25/100 (Extreme Fear)",
+          "points": 1.05,
+          "maxPoints": 1.5,
+          "explanation": "市场偏向恐惧（恐贪指数 25），整体情绪悲观但还没到极端，属于比较适合布局的区间",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "国债收益率",
+          "rawValue": 4.62,
+          "displayValue": "4.62%",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "10年期国债收益率 4.62%，利率偏高，资金成本上升，高估值股票承受的压力较大",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "估值(市盈率)",
+          "rawValue": 48.697594,
+          "displayValue": "48.7x",
+          "points": 0.3,
+          "maxPoints": 1.5,
+          "explanation": "市盈率 48.7 倍，估值偏贵，投资者对公司未来增长有很高预期，如果增长不及预期则压力较大",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "做空比率",
+          "rawValue": 2.62,
+          "displayValue": "2.62天",
+          "points": 0.32,
+          "maxPoints": 0.64,
+          "explanation": "空头比率 2.62 天，存在一定的做空力量，需关注空头是否会带来短期压力",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "新闻情绪",
+          "rawValue": 7,
+          "displayValue": "positive",
+          "points": 0.49,
+          "maxPoints": 0.7,
+          "explanation": "多位分析师上调Arista Networks评级,看好其AI需求增长和长期前景,但缺乏具体多年期合同支持。近期新闻整体积极，有正面催化剂出现，影响偏利多",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T03:12:41.321Z"
+    },
+    {
+      "ticker": "COHR",
+      "score": 3.37,
+      "signal": "WAIT",
+      "timestamp": "2026-05-19T03:12:44.625Z",
+      "breakdown": [
+        {
+          "factor": "价格回撤",
+          "rawValue": -0.1215,
+          "displayValue": "-12.1%",
+          "points": 0.75,
+          "maxPoints": 2.5,
+          "explanation": "股价从高点下跌了 12.1%，有一定的买入安全边际，但空间不算大",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "市场恐慌度(VIX)",
+          "rawValue": 17.82,
+          "displayValue": "17.82",
+          "points": 0.15,
+          "maxPoints": 1.5,
+          "explanation": "市场非常平静（VIX 17.8），大家普遍乐观，这种时候反而需要提防市场过热带来的追高风险",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "恐贪指数",
+          "rawValue": 25,
+          "displayValue": "25/100 (Extreme Fear)",
+          "points": 1.05,
+          "maxPoints": 1.5,
+          "explanation": "市场偏向恐惧（恐贪指数 25），整体情绪悲观但还没到极端，属于比较适合布局的区间",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "国债收益率",
+          "rawValue": 4.62,
+          "displayValue": "4.62%",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "10年期国债收益率 4.62%，利率偏高，资金成本上升，高估值股票承受的压力较大",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "估值(市盈率)",
+          "rawValue": 172.7762,
+          "displayValue": "172.8x",
+          "points": 0,
+          "maxPoints": 1.5,
+          "explanation": "市盈率高达 172.8 倍，估值很高，当前价格已充分甚至超额反映了未来的增长预期",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "做空比率",
+          "rawValue": 1.32,
+          "displayValue": "1.32天",
+          "points": 0.48,
+          "maxPoints": 0.64,
+          "explanation": "空头比率 1.32 天，做空比例较低，整体多头氛围较强",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "新闻情绪",
+          "rawValue": 7,
+          "displayValue": "positive",
+          "points": 0.49,
+          "maxPoints": 0.7,
+          "explanation": "COHR强劲Q3财报和扩大NVIDIA合作带动股价上涨，但知名投资者减持引发短期压力。近期新闻整体积极，有正面催化剂出现，影响偏利多",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T03:12:44.625Z"
+    },
+    {
+      "ticker": "LITE",
+      "score": 3.37,
+      "signal": "WAIT",
+      "timestamp": "2026-05-19T03:12:44.888Z",
+      "breakdown": [
+        {
+          "factor": "价格回撤",
+          "rawValue": -0.1849,
+          "displayValue": "-18.5%",
+          "points": 0.75,
+          "maxPoints": 2.5,
+          "explanation": "股价从高点下跌了 18.5%，有一定的买入安全边际，但空间不算大",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "市场恐慌度(VIX)",
+          "rawValue": 17.82,
+          "displayValue": "17.82",
+          "points": 0.15,
+          "maxPoints": 1.5,
+          "explanation": "市场非常平静（VIX 17.8），大家普遍乐观，这种时候反而需要提防市场过热带来的追高风险",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "恐贪指数",
+          "rawValue": 25,
+          "displayValue": "25/100 (Extreme Fear)",
+          "points": 1.05,
+          "maxPoints": 1.5,
+          "explanation": "市场偏向恐惧（恐贪指数 25），整体情绪悲观但还没到极端，属于比较适合布局的区间",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "国债收益率",
+          "rawValue": 4.62,
+          "displayValue": "4.62%",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "10年期国债收益率 4.62%，利率偏高，资金成本上升，高估值股票承受的压力较大",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "估值(市盈率)",
+          "rawValue": 156.35689,
+          "displayValue": "156.4x",
+          "points": 0,
+          "maxPoints": 1.5,
+          "explanation": "市盈率高达 156.4 倍，估值很高，当前价格已充分甚至超额反映了未来的增长预期",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "做空比率",
+          "rawValue": 1.62,
+          "displayValue": "1.62天",
+          "points": 0.48,
+          "maxPoints": 0.64,
+          "explanation": "空头比率 1.62 天，做空比例较低，整体多头氛围较强",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "新闻情绪",
+          "rawValue": 7,
+          "displayValue": "positive",
+          "points": 0.49,
+          "maxPoints": 0.7,
+          "explanation": "Lumentum加入纳斯达克100指数提升机构配置需求，但知名投资者减仓导致短期回调。近期新闻整体积极，有正面催化剂出现，影响偏利多",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T03:12:44.888Z"
+    },
+    {
+      "ticker": "CIEN",
+      "score": 3.37,
+      "signal": "WAIT",
+      "timestamp": "2026-05-19T03:12:44.782Z",
+      "breakdown": [
+        {
+          "factor": "价格回撤",
+          "rawValue": -0.1241,
+          "displayValue": "-12.4%",
+          "points": 0.75,
+          "maxPoints": 2.5,
+          "explanation": "股价从高点下跌了 12.4%，有一定的买入安全边际，但空间不算大",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "市场恐慌度(VIX)",
+          "rawValue": 17.82,
+          "displayValue": "17.82",
+          "points": 0.15,
+          "maxPoints": 1.5,
+          "explanation": "市场非常平静（VIX 17.8），大家普遍乐观，这种时候反而需要提防市场过热带来的追高风险",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "恐贪指数",
+          "rawValue": 25,
+          "displayValue": "25/100 (Extreme Fear)",
+          "points": 1.05,
+          "maxPoints": 1.5,
+          "explanation": "市场偏向恐惧（恐贪指数 25），整体情绪悲观但还没到极端，属于比较适合布局的区间",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "国债收益率",
+          "rawValue": 4.62,
+          "displayValue": "4.62%",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "10年期国债收益率 4.62%，利率偏高，资金成本上升，高估值股票承受的压力较大",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "估值(市盈率)",
+          "rawValue": 338.4065,
+          "displayValue": "338.4x",
+          "points": 0,
+          "maxPoints": 1.5,
+          "explanation": "市盈率高达 338.4 倍，估值很高，当前价格已充分甚至超额反映了未来的增长预期",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "做空比率",
+          "rawValue": 1.68,
+          "displayValue": "1.68天",
+          "points": 0.48,
+          "maxPoints": 0.64,
+          "explanation": "空头比率 1.68 天，做空比例较低，整体多头氛围较强",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "新闻情绪",
+          "rawValue": 7,
+          "displayValue": "positive",
+          "points": 0.49,
+          "maxPoints": 0.7,
+          "explanation": "两家主要分析师上调思科纳股价目标至658-675美元并维持买入评级，反映市场对其AI驱动需求和光学网络增长的强劲信心。近期新闻整体积极，有正面催化剂出现，影响偏利多",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T03:12:44.782Z"
+    },
+    {
+      "ticker": "CRWD",
+      "score": 2.91,
+      "signal": "AVOID",
+      "timestamp": "2026-05-19T03:12:44.483Z",
+      "breakdown": [
+        {
+          "factor": "价格回撤",
+          "rawValue": -0.0036,
+          "displayValue": "-0.4%",
+          "points": 0,
+          "maxPoints": 2.5,
+          "explanation": "股价距离近期高点仅下跌 0.4%，仍处于相对高位，当前价格安全边际不足",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "市场恐慌度(VIX)",
+          "rawValue": 17.82,
+          "displayValue": "17.82",
+          "points": 0.15,
+          "maxPoints": 1.5,
+          "explanation": "市场非常平静（VIX 17.8），大家普遍乐观，这种时候反而需要提防市场过热带来的追高风险",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "恐贪指数",
+          "rawValue": 25,
+          "displayValue": "25/100 (Extreme Fear)",
+          "points": 1.05,
+          "maxPoints": 1.5,
+          "explanation": "市场偏向恐惧（恐贪指数 25），整体情绪悲观但还没到极端，属于比较适合布局的区间",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "国债收益率",
+          "rawValue": 4.62,
+          "displayValue": "4.62%",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "10年期国债收益率 4.62%，利率偏高，资金成本上升，高估值股票承受的压力较大",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "估值(市盈率)",
+          "rawValue": -0.68,
+          "displayValue": "N/A",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "暂无有效的市盈率数据（公司可能处于亏损或数据缺失），按中性分处理，不额外加分也不扣分",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "做空比率",
+          "rawValue": 2.24,
+          "displayValue": "2.24天",
+          "points": 0.32,
+          "maxPoints": 0.64,
+          "explanation": "空头比率 2.24 天，存在一定的做空力量，需关注空头是否会带来短期压力",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "新闻情绪",
+          "rawValue": 7,
+          "displayValue": "positive",
+          "points": 0.49,
+          "maxPoints": 0.7,
+          "explanation": "多家分析师上调CrowdStrike目标价至$700,看好其AI安全产品动能和长期增长前景。近期新闻整体积极，有正面催化剂出现，影响偏利多",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T03:12:44.483Z"
+    },
+    {
+      "ticker": "PANW",
+      "score": 2.67,
+      "signal": "AVOID",
+      "timestamp": "2026-05-19T03:12:45.028Z",
+      "breakdown": [
+        {
+          "factor": "价格回撤",
+          "rawValue": -0.0052,
+          "displayValue": "-0.5%",
+          "points": 0,
+          "maxPoints": 2.5,
+          "explanation": "股价距离近期高点仅下跌 0.5%，仍处于相对高位，当前价格安全边际不足",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "市场恐慌度(VIX)",
+          "rawValue": 17.82,
+          "displayValue": "17.82",
+          "points": 0.15,
+          "maxPoints": 1.5,
+          "explanation": "市场非常平静（VIX 17.8），大家普遍乐观，这种时候反而需要提防市场过热带来的追高风险",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "恐贪指数",
+          "rawValue": 25,
+          "displayValue": "25/100 (Extreme Fear)",
+          "points": 1.05,
+          "maxPoints": 1.5,
+          "explanation": "市场偏向恐惧（恐贪指数 25），整体情绪悲观但还没到极端，属于比较适合布局的区间",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "国债收益率",
+          "rawValue": 4.62,
+          "displayValue": "4.62%",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "10年期国债收益率 4.62%，利率偏高，资金成本上升，高估值股票承受的压力较大",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "估值(市盈率)",
+          "rawValue": 136.76796,
+          "displayValue": "136.8x",
+          "points": 0,
+          "maxPoints": 1.5,
+          "explanation": "市盈率高达 136.8 倍，估值很高，当前价格已充分甚至超额反映了未来的增长预期",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "做空比率",
+          "rawValue": 3.31,
+          "displayValue": "3.31天",
+          "points": 0.32,
+          "maxPoints": 0.64,
+          "explanation": "空头比率 3.31 天，存在一定的做空力量，需关注空头是否会带来短期压力",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "新闻情绪",
+          "rawValue": 10,
+          "displayValue": "strongly positive",
+          "points": 0.7,
+          "maxPoints": 0.7,
+          "explanation": "Palo Alto Networks获得多家分析师上调目标价，其中Oppenheimer上调至$275，同时公司强劲的财报表现和身份安全业务拓展动力强劲。近期有强力利好消息，属于重大正面催化剂，对股价影响较大",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T03:12:45.028Z"
+    },
+    {
+      "ticker": "ZS",
+      "score": 5.62,
+      "signal": "WATCH",
+      "timestamp": "2026-05-19T03:12:48.650Z",
+      "breakdown": [
+        {
+          "factor": "价格回撤",
+          "rawValue": -0.4816,
+          "displayValue": "-48.2%",
+          "points": 2.5,
+          "maxPoints": 2.5,
+          "explanation": "股价已从近期高点大幅下跌 48.2%，属于罕见的深度打折区间，历史上往往是价值投资者出手的好机会",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "市场恐慌度(VIX)",
+          "rawValue": 17.82,
+          "displayValue": "17.82",
+          "points": 0.15,
+          "maxPoints": 1.5,
+          "explanation": "市场非常平静（VIX 17.8），大家普遍乐观，这种时候反而需要提防市场过热带来的追高风险",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "恐贪指数",
+          "rawValue": 25,
+          "displayValue": "25/100 (Extreme Fear)",
+          "points": 1.05,
+          "maxPoints": 1.5,
+          "explanation": "市场偏向恐惧（恐贪指数 25），整体情绪悲观但还没到极端，属于比较适合布局的区间",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "国债收益率",
+          "rawValue": 4.62,
+          "displayValue": "4.62%",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "10年期国债收益率 4.62%，利率偏高，资金成本上升，高估值股票承受的压力较大",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "估值(市盈率)",
+          "rawValue": -0.47,
+          "displayValue": "N/A",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "暂无有效的市盈率数据（公司可能处于亏损或数据缺失），按中性分处理，不额外加分也不扣分",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "做空比率",
+          "rawValue": 3.63,
+          "displayValue": "3.63天",
+          "points": 0.32,
+          "maxPoints": 0.64,
+          "explanation": "空头比率 3.63 天，存在一定的做空力量，需关注空头是否会带来短期压力",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "新闻情绪",
+          "rawValue": 10,
+          "displayValue": "strongly positive",
+          "points": 0.7,
+          "maxPoints": 0.7,
+          "explanation": "Z-Flex产品采用率上升，Q2预订额达2.9亿美元，同时获得多家分析师升级评级，为长期营收增长提供强劲催化剂。近期有强力利好消息，且涉及多年期合同，通常对股价有持续性支撑",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T03:12:48.650Z"
+    },
+    {
+      "ticker": "S",
+      "score": 3.52,
+      "signal": "WAIT",
+      "timestamp": "2026-05-19T03:12:47.248Z",
+      "breakdown": [
+        {
+          "factor": "价格回撤",
+          "rawValue": -0.1804,
+          "displayValue": "-18.0%",
+          "points": 0.75,
+          "maxPoints": 2.5,
+          "explanation": "股价从高点下跌了 18.0%，有一定的买入安全边际，但空间不算大",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "市场恐慌度(VIX)",
+          "rawValue": 17.82,
+          "displayValue": "17.82",
+          "points": 0.15,
+          "maxPoints": 1.5,
+          "explanation": "市场非常平静（VIX 17.8），大家普遍乐观，这种时候反而需要提防市场过热带来的追高风险",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "恐贪指数",
+          "rawValue": 25,
+          "displayValue": "25/100 (Extreme Fear)",
+          "points": 1.05,
+          "maxPoints": 1.5,
+          "explanation": "市场偏向恐惧（恐贪指数 25），整体情绪悲观但还没到极端，属于比较适合布局的区间",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "国债收益率",
+          "rawValue": 4.62,
+          "displayValue": "4.62%",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "10年期国债收益率 4.62%，利率偏高，资金成本上升，高估值股票承受的压力较大",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "估值(市盈率)",
+          "rawValue": -1.37,
+          "displayValue": "N/A",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "暂无有效的市盈率数据（公司可能处于亏损或数据缺失），按中性分处理，不额外加分也不扣分",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "做空比率",
+          "rawValue": 3.4,
+          "displayValue": "3.40天",
+          "points": 0.32,
+          "maxPoints": 0.64,
+          "explanation": "空头比率 3.40 天，存在一定的做空力量，需关注空头是否会带来短期压力",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "新闻情绪",
+          "rawValue": 5,
+          "displayValue": "neutral",
+          "points": 0.35,
+          "maxPoints": 0.7,
+          "explanation": "提供的新闻标题仅为日程安排，不包含实质性信息，无法评估对股价的影响。近期新闻较为平淡，没有特别突出的利好或利空",
+          "sentiment": "neutral"
+        }
+      ],
+      "refreshedAt": "2026-05-19T03:12:47.248Z"
+    },
+    {
+      "ticker": "ISRG",
+      "score": 3.66,
+      "signal": "WAIT",
+      "timestamp": "2026-05-19T03:12:47.969Z",
+      "breakdown": [
+        {
+          "factor": "价格回撤",
+          "rawValue": -0.2715,
+          "displayValue": "-27.2%",
+          "points": 1.25,
+          "maxPoints": 2.5,
+          "explanation": "股价已从高点回调 27.2%，进入了相对合理的买入区间，安全边际适中",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "市场恐慌度(VIX)",
+          "rawValue": 17.82,
+          "displayValue": "17.82",
+          "points": 0.15,
+          "maxPoints": 1.5,
+          "explanation": "市场非常平静（VIX 17.8），大家普遍乐观，这种时候反而需要提防市场过热带来的追高风险",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "恐贪指数",
+          "rawValue": 25,
+          "displayValue": "25/100 (Extreme Fear)",
+          "points": 1.05,
+          "maxPoints": 1.5,
+          "explanation": "市场偏向恐惧（恐贪指数 25），整体情绪悲观但还没到极端，属于比较适合布局的区间",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "国债收益率",
+          "rawValue": 4.62,
+          "displayValue": "4.62%",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "10年期国债收益率 4.62%，利率偏高，资金成本上升，高估值股票承受的压力较大",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "估值(市盈率)",
+          "rawValue": 53.453224,
+          "displayValue": "53.5x",
+          "points": 0.3,
+          "maxPoints": 1.5,
+          "explanation": "市盈率 53.5 倍，估值偏贵，投资者对公司未来增长有很高预期，如果增长不及预期则压力较大",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "做空比率",
+          "rawValue": 3.1,
+          "displayValue": "3.10天",
+          "points": 0.32,
+          "maxPoints": 0.64,
+          "explanation": "空头比率 3.10 天，存在一定的做空力量，需关注空头是否会带来短期压力",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "新闻情绪",
+          "rawValue": 2,
+          "displayValue": "negative",
+          "points": 0.14,
+          "maxPoints": 0.7,
+          "explanation": "直观手术公司da Vinci 5推动手术量增长但面临FDA一级召回和机构抛售压力,股价年初跌幅20%。近期出现一些偏负面的消息，需要留意潜在风险",
+          "sentiment": "negative"
+        }
+      ],
+      "refreshedAt": "2026-05-19T03:12:47.969Z"
+    },
+    {
+      "ticker": "TEM",
+      "score": 5.39,
+      "signal": "WATCH",
+      "timestamp": "2026-05-19T03:12:47.959Z",
+      "breakdown": [
+        {
+          "factor": "价格回撤",
+          "rawValue": -0.5819,
+          "displayValue": "-58.2%",
+          "points": 2.5,
+          "maxPoints": 2.5,
+          "explanation": "股价已从近期高点大幅下跌 58.2%，属于罕见的深度打折区间，历史上往往是价值投资者出手的好机会",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "市场恐慌度(VIX)",
+          "rawValue": 17.82,
+          "displayValue": "17.82",
+          "points": 0.15,
+          "maxPoints": 1.5,
+          "explanation": "市场非常平静（VIX 17.8），大家普遍乐观，这种时候反而需要提防市场过热带来的追高风险",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "恐贪指数",
+          "rawValue": 25,
+          "displayValue": "25/100 (Extreme Fear)",
+          "points": 1.05,
+          "maxPoints": 1.5,
+          "explanation": "市场偏向恐惧（恐贪指数 25），整体情绪悲观但还没到极端，属于比较适合布局的区间",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "国债收益率",
+          "rawValue": 4.62,
+          "displayValue": "4.62%",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "10年期国债收益率 4.62%，利率偏高，资金成本上升，高估值股票承受的压力较大",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "估值(市盈率)",
+          "rawValue": -1.72,
+          "displayValue": "N/A",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "暂无有效的市盈率数据（公司可能处于亏损或数据缺失），按中性分处理，不额外加分也不扣分",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "做空比率",
+          "rawValue": 5.05,
+          "displayValue": "5.05天",
+          "points": 0.16,
+          "maxPoints": 0.64,
+          "explanation": "空头比率 5.05 天，做空比例偏高，市场中有相当一部分人在押注这只股票下跌",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "新闻情绪",
+          "rawValue": 9,
+          "displayValue": "positive",
+          "points": 0.63,
+          "maxPoints": 0.7,
+          "explanation": "Tempus AI与Bristol Myers Squibb扩展战略合作，利用AI和多模态数据改进肿瘤学和神经科学临床试验设计。近期有强力利好消息，且涉及多年期合同，通常对股价有持续性支撑",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T03:12:47.959Z"
+    },
+    {
+      "ticker": "ITA",
+      "score": 3.73,
+      "signal": "WAIT",
+      "timestamp": "2026-05-19T03:12:48.078Z",
+      "breakdown": [
+        {
+          "factor": "价格回撤",
+          "rawValue": -0.1214,
+          "displayValue": "-12.1%",
+          "points": 0.75,
+          "maxPoints": 2.5,
+          "explanation": "股价从高点下跌了 12.1%，有一定的买入安全边际，但空间不算大",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "市场恐慌度(VIX)",
+          "rawValue": 17.82,
+          "displayValue": "17.82",
+          "points": 0.15,
+          "maxPoints": 1.5,
+          "explanation": "市场非常平静（VIX 17.8），大家普遍乐观，这种时候反而需要提防市场过热带来的追高风险",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "恐贪指数",
+          "rawValue": 25,
+          "displayValue": "25/100 (Extreme Fear)",
+          "points": 1.05,
+          "maxPoints": 1.5,
+          "explanation": "市场偏向恐惧（恐贪指数 25），整体情绪悲观但还没到极端，属于比较适合布局的区间",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "国债收益率",
+          "rawValue": 4.62,
+          "displayValue": "4.62%",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "10年期国债收益率 4.62%，利率偏高，资金成本上升，高估值股票承受的压力较大",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "估值(市盈率)",
+          "rawValue": 36.10322,
+          "displayValue": "36.1x",
+          "points": 0.6,
+          "maxPoints": 1.5,
+          "explanation": "市盈率 36.1 倍，估值中等偏高，市场愿意为其成长预期付出一定溢价",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "做空比率",
+          "rawValue": null,
+          "displayValue": "N/A",
+          "points": 0.24,
+          "maxPoints": 0.64,
+          "explanation": "没有可用的做空数据，按中性分处理",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "新闻情绪",
+          "rawValue": 7,
+          "displayValue": "positive",
+          "points": 0.49,
+          "maxPoints": 0.7,
+          "explanation": "通用动力与NightDragon建立AI和网络安全伙伴关系，波音面临中国订单机遇但政治风险存在，制造业活动强劲。近期新闻整体积极，有正面催化剂出现，影响偏利多",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T03:12:48.078Z"
+    },
+    {
+      "ticker": "RKLB",
+      "score": 3.07,
+      "signal": "WAIT",
+      "timestamp": "2026-05-19T03:12:51.802Z",
+      "breakdown": [
+        {
+          "factor": "价格回撤",
+          "rawValue": -0.0522,
+          "displayValue": "-5.2%",
+          "points": 0,
+          "maxPoints": 2.5,
+          "explanation": "股价距离近期高点仅下跌 5.2%，仍处于相对高位，当前价格安全边际不足",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "市场恐慌度(VIX)",
+          "rawValue": 17.82,
+          "displayValue": "17.82",
+          "points": 0.15,
+          "maxPoints": 1.5,
+          "explanation": "市场非常平静（VIX 17.8），大家普遍乐观，这种时候反而需要提防市场过热带来的追高风险",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "恐贪指数",
+          "rawValue": 25,
+          "displayValue": "25/100 (Extreme Fear)",
+          "points": 1.05,
+          "maxPoints": 1.5,
+          "explanation": "市场偏向恐惧（恐贪指数 25），整体情绪悲观但还没到极端，属于比较适合布局的区间",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "国债收益率",
+          "rawValue": 4.62,
+          "displayValue": "4.62%",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "10年期国债收益率 4.62%，利率偏高，资金成本上升，高估值股票承受的压力较大",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "估值(市盈率)",
+          "rawValue": -0.32,
+          "displayValue": "N/A",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "暂无有效的市盈率数据（公司可能处于亏损或数据缺失），按中性分处理，不额外加分也不扣分",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "做空比率",
+          "rawValue": 1.41,
+          "displayValue": "1.41天",
+          "points": 0.48,
+          "maxPoints": 0.64,
+          "explanation": "空头比率 1.41 天，做空比例较低，整体多头氛围较强",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "新闻情绪",
+          "rawValue": 7,
+          "displayValue": "positive",
+          "points": 0.49,
+          "maxPoints": 0.7,
+          "explanation": "Needham分析师上调目标价格并给予买入评级，同时Google与多家火箭公司包括Rocket Lab洽谈轨道数据中心合作，显示公司战略地位提升。近期新闻整体积极，有正面催化剂出现，影响偏利多",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T03:12:51.802Z"
+    },
+    {
+      "ticker": "LMT",
+      "score": 4.47,
+      "signal": "WAIT",
+      "timestamp": "2026-05-19T03:12:52.054Z",
+      "breakdown": [
+        {
+          "factor": "价格回撤",
+          "rawValue": -0.2365,
+          "displayValue": "-23.7%",
+          "points": 1.25,
+          "maxPoints": 2.5,
+          "explanation": "股价已从高点回调 23.7%，进入了相对合理的买入区间，安全边际适中",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "市场恐慌度(VIX)",
+          "rawValue": 17.82,
+          "displayValue": "17.82",
+          "points": 0.15,
+          "maxPoints": 1.5,
+          "explanation": "市场非常平静（VIX 17.8），大家普遍乐观，这种时候反而需要提防市场过热带来的追高风险",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "恐贪指数",
+          "rawValue": 25,
+          "displayValue": "25/100 (Extreme Fear)",
+          "points": 1.05,
+          "maxPoints": 1.5,
+          "explanation": "市场偏向恐惧（恐贪指数 25），整体情绪悲观但还没到极端，属于比较适合布局的区间",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "国债收益率",
+          "rawValue": 4.62,
+          "displayValue": "4.62%",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "10年期国债收益率 4.62%，利率偏高，资金成本上升，高估值股票承受的压力较大",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "估值(市盈率)",
+          "rawValue": 25.571636,
+          "displayValue": "25.6x",
+          "points": 0.6,
+          "maxPoints": 1.5,
+          "explanation": "市盈率 25.6 倍，估值中等偏高，市场愿意为其成长预期付出一定溢价",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "做空比率",
+          "rawValue": 1.55,
+          "displayValue": "1.55天",
+          "points": 0.48,
+          "maxPoints": 0.64,
+          "explanation": "空头比率 1.55 天，做空比例较低，整体多头氛围较强",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "新闻情绪",
+          "rawValue": 7,
+          "displayValue": "neutral",
+          "points": 0.49,
+          "maxPoints": 0.7,
+          "explanation": "洛克希德·马丁获得澳大利亚核潜艇作战系统集成合同和F-35电子战系统升级合同，但花旗下调目标价格至571美元，形成喜忧参半的市场信号。近期新闻整体积极，有正面催化剂出现，影响偏利多",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T03:12:52.054Z"
+    },
+    {
+      "ticker": "CRWV",
+      "score": 5.22,
+      "signal": "WATCH",
+      "timestamp": "2026-05-19T03:12:52.508Z",
+      "breakdown": [
+        {
+          "factor": "价格回撤",
+          "rawValue": -0.4451,
+          "displayValue": "-44.5%",
+          "points": 2.5,
+          "maxPoints": 2.5,
+          "explanation": "股价已从近期高点大幅下跌 44.5%，属于罕见的深度打折区间，历史上往往是价值投资者出手的好机会",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "市场恐慌度(VIX)",
+          "rawValue": 17.82,
+          "displayValue": "17.82",
+          "points": 0.15,
+          "maxPoints": 1.5,
+          "explanation": "市场非常平静（VIX 17.8），大家普遍乐观，这种时候反而需要提防市场过热带来的追高风险",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "恐贪指数",
+          "rawValue": 25,
+          "displayValue": "25/100 (Extreme Fear)",
+          "points": 1.05,
+          "maxPoints": 1.5,
+          "explanation": "市场偏向恐惧（恐贪指数 25），整体情绪悲观但还没到极端，属于比较适合布局的区间",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "国债收益率",
+          "rawValue": 4.62,
+          "displayValue": "4.62%",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "10年期国债收益率 4.62%，利率偏高，资金成本上升，高估值股票承受的压力较大",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "估值(市盈率)",
+          "rawValue": -2.72,
+          "displayValue": "N/A",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "暂无有效的市盈率数据（公司可能处于亏损或数据缺失），按中性分处理，不额外加分也不扣分",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "做空比率",
+          "rawValue": 1.88,
+          "displayValue": "1.88天",
+          "points": 0.48,
+          "maxPoints": 0.64,
+          "explanation": "空头比率 1.88 天，做空比例较低，整体多头氛围较强",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "新闻情绪",
+          "rawValue": 2,
+          "displayValue": "negative",
+          "points": 0.14,
+          "maxPoints": 0.7,
+          "explanation": "分析师评级出现分歧，DA Davidson下调至中性评级与$100目标价，而Citigroup维持买入并上调至$158，但Q1财报显示收入增长强劲但亏损扩大且年度烧钱率高达$20B，引发盈利模式质疑。近期出现一些偏负面的消息，需要留意潜在风险",
+          "sentiment": "negative"
+        }
+      ],
+      "refreshedAt": "2026-05-19T03:12:52.508Z"
+    },
+    {
+      "ticker": "IREN",
+      "score": 4.51,
+      "signal": "WAIT",
+      "timestamp": "2026-05-19T03:12:52.354Z",
+      "breakdown": [
+        {
+          "factor": "价格回撤",
+          "rawValue": -0.3436,
+          "displayValue": "-34.4%",
+          "points": 1.75,
+          "maxPoints": 2.5,
+          "explanation": "股价从高点回落 34.4%，处于历史上较有吸引力的买入区间，安全边际比较充足",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "市场恐慌度(VIX)",
+          "rawValue": 17.82,
+          "displayValue": "17.82",
+          "points": 0.15,
+          "maxPoints": 1.5,
+          "explanation": "市场非常平静（VIX 17.8），大家普遍乐观，这种时候反而需要提防市场过热带来的追高风险",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "恐贪指数",
+          "rawValue": 25,
+          "displayValue": "25/100 (Extreme Fear)",
+          "points": 1.05,
+          "maxPoints": 1.5,
+          "explanation": "市场偏向恐惧（恐贪指数 25），整体情绪悲观但还没到极端，属于比较适合布局的区间",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "国债收益率",
+          "rawValue": 4.62,
+          "displayValue": "4.62%",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "10年期国债收益率 4.62%，利率偏高，资金成本上升，高估值股票承受的压力较大",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "估值(市盈率)",
+          "rawValue": 65.53247,
+          "displayValue": "65.5x",
+          "points": 0,
+          "maxPoints": 1.5,
+          "explanation": "市盈率高达 65.5 倍，估值很高，当前价格已充分甚至超额反映了未来的增长预期",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "做空比率",
+          "rawValue": 1.69,
+          "displayValue": "1.69天",
+          "points": 0.48,
+          "maxPoints": 0.64,
+          "explanation": "空头比率 1.69 天，做空比例较低，整体多头氛围较强",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "新闻情绪",
+          "rawValue": 9,
+          "displayValue": "positive",
+          "points": 0.63,
+          "maxPoints": 0.7,
+          "explanation": "IREN与Nvidia达成5年34亿美元战略合作合同,同时完成30亿美元可转换债券融资,推进AI基础设施扩张。近期有强力利好消息，且涉及多年期合同，通常对股价有持续性支撑",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T03:12:52.354Z"
+    },
+    {
+      "ticker": "APLD",
+      "score": 3.87,
+      "signal": "WAIT",
+      "timestamp": "2026-05-19T03:12:51.619Z",
+      "breakdown": [
+        {
+          "factor": "价格回撤",
+          "rawValue": -0.181,
+          "displayValue": "-18.1%",
+          "points": 0.75,
+          "maxPoints": 2.5,
+          "explanation": "股价从高点下跌了 18.1%，有一定的买入安全边际，但空间不算大",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "市场恐慌度(VIX)",
+          "rawValue": 17.82,
+          "displayValue": "17.82",
+          "points": 0.15,
+          "maxPoints": 1.5,
+          "explanation": "市场非常平静（VIX 17.8），大家普遍乐观，这种时候反而需要提防市场过热带来的追高风险",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "恐贪指数",
+          "rawValue": 25,
+          "displayValue": "25/100 (Extreme Fear)",
+          "points": 1.05,
+          "maxPoints": 1.5,
+          "explanation": "市场偏向恐惧（恐贪指数 25），整体情绪悲观但还没到极端，属于比较适合布局的区间",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "国债收益率",
+          "rawValue": 4.62,
+          "displayValue": "4.62%",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "10年期国债收益率 4.62%，利率偏高，资金成本上升，高估值股票承受的压力较大",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "估值(市盈率)",
+          "rawValue": -0.35,
+          "displayValue": "N/A",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "暂无有效的市盈率数据（公司可能处于亏损或数据缺失），按中性分处理，不额外加分也不扣分",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "做空比率",
+          "rawValue": 3.1,
+          "displayValue": "3.10天",
+          "points": 0.32,
+          "maxPoints": 0.64,
+          "explanation": "空头比率 3.10 天，存在一定的做空力量，需关注空头是否会带来短期压力",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "新闻情绪",
+          "rawValue": 10,
+          "displayValue": "strongly positive",
+          "points": 0.7,
+          "maxPoints": 0.7,
+          "explanation": "Applied Digital获得与Babcock & Wilcox数据中心合同增至2.4亿美元，同时获得Needham维持买入评级并提高目标价至51美元，但面临Core Scientific竞争压力。近期有强力利好消息，且涉及多年期合同，通常对股价有持续性支撑",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T03:12:51.619Z"
+    },
+    {
+      "ticker": "NBIS",
+      "score": 3.42,
+      "signal": "WAIT",
+      "timestamp": "2026-05-19T03:12:56.392Z",
+      "breakdown": [
+        {
+          "factor": "价格回撤",
+          "rawValue": -0.1449,
+          "displayValue": "-14.5%",
+          "points": 0.75,
+          "maxPoints": 2.5,
+          "explanation": "股价从高点下跌了 14.5%，有一定的买入安全边际，但空间不算大",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "市场恐慌度(VIX)",
+          "rawValue": 17.82,
+          "displayValue": "17.82",
+          "points": 0.15,
+          "maxPoints": 1.5,
+          "explanation": "市场非常平静（VIX 17.8），大家普遍乐观，这种时候反而需要提防市场过热带来的追高风险",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "恐贪指数",
+          "rawValue": 25,
+          "displayValue": "25/100 (Extreme Fear)",
+          "points": 1.05,
+          "maxPoints": 1.5,
+          "explanation": "市场偏向恐惧（恐贪指数 25），整体情绪悲观但还没到极端，属于比较适合布局的区间",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "国债收益率",
+          "rawValue": 4.62,
+          "displayValue": "4.62%",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "10年期国债收益率 4.62%，利率偏高，资金成本上升，高估值股票承受的压力较大",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "估值(市盈率)",
+          "rawValue": 76.86923,
+          "displayValue": "76.9x",
+          "points": 0,
+          "maxPoints": 1.5,
+          "explanation": "市盈率高达 76.9 倍，估值很高，当前价格已充分甚至超额反映了未来的增长预期",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "做空比率",
+          "rawValue": 2.66,
+          "displayValue": "2.66天",
+          "points": 0.32,
+          "maxPoints": 0.64,
+          "explanation": "空头比率 2.66 天，存在一定的做空力量，需关注空头是否会带来短期压力",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "新闻情绪",
+          "rawValue": 10,
+          "displayValue": "strongly positive",
+          "points": 0.7,
+          "maxPoints": 0.7,
+          "explanation": "Nebius与Meta扩展合同并提高2026年功率指引至4GW，获得多家分析师上调价格目标和买入评级，显示强劲的AI基础设施增长前景。近期有强力利好消息，且涉及多年期合同，通常对股价有持续性支撑",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T03:12:56.392Z"
+    },
+    {
+      "ticker": "IONQ",
+      "score": 5.17,
+      "signal": "WATCH",
+      "timestamp": "2026-05-19T03:12:55.769Z",
+      "breakdown": [
+        {
+          "factor": "价格回撤",
+          "rawValue": -0.4174,
+          "displayValue": "-41.7%",
+          "points": 2.5,
+          "maxPoints": 2.5,
+          "explanation": "股价已从近期高点大幅下跌 41.7%，属于罕见的深度打折区间，历史上往往是价值投资者出手的好机会",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "市场恐慌度(VIX)",
+          "rawValue": 17.82,
+          "displayValue": "17.82",
+          "points": 0.15,
+          "maxPoints": 1.5,
+          "explanation": "市场非常平静（VIX 17.8），大家普遍乐观，这种时候反而需要提防市场过热带来的追高风险",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "恐贪指数",
+          "rawValue": 25,
+          "displayValue": "25/100 (Extreme Fear)",
+          "points": 1.05,
+          "maxPoints": 1.5,
+          "explanation": "市场偏向恐惧（恐贪指数 25），整体情绪悲观但还没到极端，属于比较适合布局的区间",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "国债收益率",
+          "rawValue": 4.62,
+          "displayValue": "4.62%",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "10年期国债收益率 4.62%，利率偏高，资金成本上升，高估值股票承受的压力较大",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "估值(市盈率)",
+          "rawValue": 126.435905,
+          "displayValue": "126.4x",
+          "points": 0,
+          "maxPoints": 1.5,
+          "explanation": "市盈率高达 126.4 倍，估值很高，当前价格已充分甚至超额反映了未来的增长预期",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "做空比率",
+          "rawValue": 2.62,
+          "displayValue": "2.62天",
+          "points": 0.32,
+          "maxPoints": 0.64,
+          "explanation": "空头比率 2.62 天，存在一定的做空力量，需关注空头是否会带来短期压力",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "新闻情绪",
+          "rawValue": 10,
+          "displayValue": "strongly positive",
+          "points": 0.7,
+          "maxPoints": 0.7,
+          "explanation": "IonQ在Q1实现755%的收入增长并超越分析师预期，企业采用率和订单积压均大幅增长。近期有强力利好消息，属于重大正面催化剂，对股价影响较大",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T03:12:55.769Z"
+    },
+    {
+      "ticker": "RGTI",
+      "score": 5.57,
+      "signal": "WATCH",
+      "timestamp": "2026-05-19T03:12:55.970Z",
+      "breakdown": [
+        {
+          "factor": "价格回撤",
+          "rawValue": -0.7142,
+          "displayValue": "-71.4%",
+          "points": 2.5,
+          "maxPoints": 2.5,
+          "explanation": "股价已从近期高点大幅下跌 71.4%，属于罕见的深度打折区间，历史上往往是价值投资者出手的好机会",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "市场恐慌度(VIX)",
+          "rawValue": 17.82,
+          "displayValue": "17.82",
+          "points": 0.15,
+          "maxPoints": 1.5,
+          "explanation": "市场非常平静（VIX 17.8），大家普遍乐观，这种时候反而需要提防市场过热带来的追高风险",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "恐贪指数",
+          "rawValue": 25,
+          "displayValue": "25/100 (Extreme Fear)",
+          "points": 1.05,
+          "maxPoints": 1.5,
+          "explanation": "市场偏向恐惧（恐贪指数 25），整体情绪悲观但还没到极端，属于比较适合布局的区间",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "国债收益率",
+          "rawValue": 4.62,
+          "displayValue": "4.62%",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "10年期国债收益率 4.62%，利率偏高，资金成本上升，高估值股票承受的压力较大",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "估值(市盈率)",
+          "rawValue": -0.89,
+          "displayValue": "N/A",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "暂无有效的市盈率数据（公司可能处于亏损或数据缺失），按中性分处理，不额外加分也不扣分",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "做空比率",
+          "rawValue": 1.67,
+          "displayValue": "1.67天",
+          "points": 0.48,
+          "maxPoints": 0.64,
+          "explanation": "空头比率 1.67 天，做空比例较低，整体多头氛围较强",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "新闻情绪",
+          "rawValue": 7,
+          "displayValue": "positive",
+          "points": 0.49,
+          "maxPoints": 0.7,
+          "explanation": "RGTI在第一季度实现199%的收入增长，推出108量子比特Cepheus-1-108Q系统，华尔街分析师普遍看好，但股价表现疲软。近期新闻整体积极，有正面催化剂出现，影响偏利多",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T03:12:55.970Z"
+    },
+    {
+      "ticker": "QUBT",
+      "score": 5.25,
+      "signal": "WATCH",
+      "timestamp": "2026-05-19T03:12:56.082Z",
+      "breakdown": [
+        {
+          "factor": "价格回撤",
+          "rawValue": -0.624,
+          "displayValue": "-62.4%",
+          "points": 2.5,
+          "maxPoints": 2.5,
+          "explanation": "股价已从近期高点大幅下跌 62.4%，属于罕见的深度打折区间，历史上往往是价值投资者出手的好机会",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "市场恐慌度(VIX)",
+          "rawValue": 17.82,
+          "displayValue": "17.82",
+          "points": 0.15,
+          "maxPoints": 1.5,
+          "explanation": "市场非常平静（VIX 17.8），大家普遍乐观，这种时候反而需要提防市场过热带来的追高风险",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "恐贪指数",
+          "rawValue": 25,
+          "displayValue": "25/100 (Extreme Fear)",
+          "points": 1.05,
+          "maxPoints": 1.5,
+          "explanation": "市场偏向恐惧（恐贪指数 25），整体情绪悲观但还没到极端，属于比较适合布局的区间",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "国债收益率",
+          "rawValue": 4.62,
+          "displayValue": "4.62%",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "10年期国债收益率 4.62%，利率偏高，资金成本上升，高估值股票承受的压力较大",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "估值(市盈率)",
+          "rawValue": -0.24,
+          "displayValue": "N/A",
+          "points": 0.45,
+          "maxPoints": 1.5,
+          "explanation": "暂无有效的市盈率数据（公司可能处于亏损或数据缺失），按中性分处理，不额外加分也不扣分",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "做空比率",
+          "rawValue": 4.18,
+          "displayValue": "4.18天",
+          "points": 0.16,
+          "maxPoints": 0.64,
+          "explanation": "空头比率 4.18 天，做空比例偏高，市场中有相当一部分人在押注这只股票下跌",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "新闻情绪",
+          "rawValue": 7,
+          "displayValue": "positive",
+          "points": 0.49,
+          "maxPoints": 0.7,
+          "explanation": "QUBT在Q1财报中实现双重超预期增长，股价创200日高位，但分析师仍持保留态度，认为执行风险高且估值过高。近期新闻整体积极，有正面催化剂出现，影响偏利多",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T03:12:56.082Z"
+    }
+  ]
+}

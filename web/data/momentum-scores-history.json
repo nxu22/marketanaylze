@@ -1,0 +1,123 @@
+[
+  {
+    "date": "2026-05-19",
+    "scores": [
+      {
+        "ticker": "SOXX",
+        "score": 6.8
+      },
+      {
+        "ticker": "NVDA",
+        "score": 6.8
+      },
+      {
+        "ticker": "AMD",
+        "score": 6.8
+      },
+      {
+        "ticker": "AVGO",
+        "score": 6.8
+      },
+      {
+        "ticker": "MU",
+        "score": 5.8
+      },
+      {
+        "ticker": "CEG",
+        "score": 0.3
+      },
+      {
+        "ticker": "VST",
+        "score": 0.3
+      },
+      {
+        "ticker": "SMR",
+        "score": 0.3
+      },
+      {
+        "ticker": "CCJ",
+        "score": 3.8
+      },
+      {
+        "ticker": "ANET",
+        "score": 3.8
+      },
+      {
+        "ticker": "COHR",
+        "score": 5.8
+      },
+      {
+        "ticker": "LITE",
+        "score": 5.8
+      },
+      {
+        "ticker": "CIEN",
+        "score": 5.8
+      },
+      {
+        "ticker": "CRWD",
+        "score": 6.7
+      },
+      {
+        "ticker": "PANW",
+        "score": 5.8
+      },
+      {
+        "ticker": "ZS",
+        "score": 1.2
+      },
+      {
+        "ticker": "S",
+        "score": 4.2
+      },
+      {
+        "ticker": "ISRG",
+        "score": 0.3
+      },
+      {
+        "ticker": "TEM",
+        "score": 0.3
+      },
+      {
+        "ticker": "ITA",
+        "score": 4.8
+      },
+      {
+        "ticker": "RKLB",
+        "score": 6.8
+      },
+      {
+        "ticker": "LMT",
+        "score": 2.8
+      },
+      {
+        "ticker": "CRWV",
+        "score": 0.8
+      },
+      {
+        "ticker": "IREN",
+        "score": 4.3
+      },
+      {
+        "ticker": "APLD",
+        "score": 5.8
+      },
+      {
+        "ticker": "NBIS",
+        "score": 5.8
+      },
+      {
+        "ticker": "IONQ",
+        "score": 3.3
+      },
+      {
+        "ticker": "RGTI",
+        "score": 2.3
+      },
+      {
+        "ticker": "QUBT",
+        "score": 0.3
+      }
+    ]
+  }
+]

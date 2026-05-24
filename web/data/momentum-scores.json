@@ -1,0 +1,1368 @@
+{
+  "refreshedAt": "2026-05-19T16:42:08.690Z",
+  "scores": [
+    {
+      "ticker": "SOXX",
+      "score": 6.8,
+      "signal": "WATCH",
+      "dataQuality": "full",
+      "daysOfData": 262,
+      "timestamp": "2026-05-19T16:42:03.733Z",
+      "breakdown": [
+        {
+          "factor": "52W高点接近度",
+          "rawValue": 0.938884306325999,
+          "displayValue": "93.9%",
+          "points": 2,
+          "maxPoints": 3,
+          "explanation": "股价距 52 周高点 6.1%，相对靠近高点",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "200日均线位置",
+          "rawValue": 1.5367923413839149,
+          "displayValue": "53.7%",
+          "points": 2.5,
+          "maxPoints": 2.5,
+          "explanation": "股价高于 200 日均线 53.7%，趋势强势",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "放量突破",
+          "rawValue": 1.0920205569825248,
+          "displayValue": "1.09x",
+          "points": 0.3,
+          "maxPoints": 2.5,
+          "explanation": "无明显放量突破，动量缺失",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "均线斜率",
+          "rawValue": 10.958834487448094,
+          "displayValue": "10.96%",
+          "points": 2,
+          "maxPoints": 2,
+          "explanation": "200 日均线 30 天斜率 +10.96%，趋势加速上扬",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T16:42:03.733Z"
+    },
+    {
+      "ticker": "NVDA",
+      "score": 6.8,
+      "signal": "WATCH",
+      "dataQuality": "full",
+      "daysOfData": 262,
+      "timestamp": "2026-05-19T16:42:03.683Z",
+      "breakdown": [
+        {
+          "factor": "52W高点接近度",
+          "rawValue": 0.9454208002261827,
+          "displayValue": "94.5%",
+          "points": 2,
+          "maxPoints": 3,
+          "explanation": "股价距 52 周高点 5.5%，相对靠近高点",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "200日均线位置",
+          "rawValue": 1.1954131399718149,
+          "displayValue": "19.5%",
+          "points": 2.5,
+          "maxPoints": 2.5,
+          "explanation": "股价高于 200 日均线 19.5%，趋势强势",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "放量突破",
+          "rawValue": 0.4201012723643293,
+          "displayValue": "0.42x",
+          "points": 0.3,
+          "maxPoints": 2.5,
+          "explanation": "无明显放量突破，动量缺失",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "均线斜率",
+          "rawValue": 3.4927690165117014,
+          "displayValue": "3.49%",
+          "points": 2,
+          "maxPoints": 2,
+          "explanation": "200 日均线 30 天斜率 +3.49%，趋势加速上扬",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T16:42:03.683Z"
+    },
+    {
+      "ticker": "AMD",
+      "score": 6.8,
+      "signal": "WATCH",
+      "dataQuality": "full",
+      "daysOfData": 262,
+      "timestamp": "2026-05-19T16:42:03.841Z",
+      "breakdown": [
+        {
+          "factor": "52W高点接近度",
+          "rawValue": 0.9133590547752569,
+          "displayValue": "91.3%",
+          "points": 2,
+          "maxPoints": 3,
+          "explanation": "股价距 52 周高点 8.7%，相对靠近高点",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "200日均线位置",
+          "rawValue": 1.8488504297372061,
+          "displayValue": "84.9%",
+          "points": 2.5,
+          "maxPoints": 2.5,
+          "explanation": "股价高于 200 日均线 84.9%，趋势强势",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "放量突破",
+          "rawValue": 0.6030434592625162,
+          "displayValue": "0.60x",
+          "points": 0.3,
+          "maxPoints": 2.5,
+          "explanation": "无明显放量突破，动量缺失",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "均线斜率",
+          "rawValue": 14.569125459783953,
+          "displayValue": "14.57%",
+          "points": 2,
+          "maxPoints": 2,
+          "explanation": "200 日均线 30 天斜率 +14.57%，趋势加速上扬",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T16:42:03.841Z"
+    },
+    {
+      "ticker": "AVGO",
+      "score": 6.8,
+      "signal": "WATCH",
+      "dataQuality": "full",
+      "daysOfData": 262,
+      "timestamp": "2026-05-19T16:42:03.742Z",
+      "breakdown": [
+        {
+          "factor": "52W高点接近度",
+          "rawValue": 0.9401304791417191,
+          "displayValue": "94.0%",
+          "points": 2,
+          "maxPoints": 3,
+          "explanation": "股价距 52 周高点 6.0%，相对靠近高点",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "200日均线位置",
+          "rawValue": 1.187809370887333,
+          "displayValue": "18.8%",
+          "points": 2.5,
+          "maxPoints": 2.5,
+          "explanation": "股价高于 200 日均线 18.8%，趋势强势",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "放量突破",
+          "rawValue": 0.41090077295037114,
+          "displayValue": "0.41x",
+          "points": 0.3,
+          "maxPoints": 2.5,
+          "explanation": "无明显放量突破，动量缺失",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "均线斜率",
+          "rawValue": 5.934823036505491,
+          "displayValue": "5.93%",
+          "points": 2,
+          "maxPoints": 2,
+          "explanation": "200 日均线 30 天斜率 +5.93%，趋势加速上扬",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T16:42:03.742Z"
+    },
+    {
+      "ticker": "MU",
+      "score": 5.8,
+      "signal": "WATCH",
+      "dataQuality": "full",
+      "daysOfData": 262,
+      "timestamp": "2026-05-19T16:42:04.052Z",
+      "breakdown": [
+        {
+          "factor": "52W高点接近度",
+          "rawValue": 0.889131150357334,
+          "displayValue": "88.9%",
+          "points": 1,
+          "maxPoints": 3,
+          "explanation": "股价距 52 周高点 11.1%，尚有一定距离",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "200日均线位置",
+          "rawValue": 2.282579236668394,
+          "displayValue": "128.3%",
+          "points": 2.5,
+          "maxPoints": 2.5,
+          "explanation": "股价高于 200 日均线 128.3%，趋势强势",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "放量突破",
+          "rawValue": 0.7870165073097865,
+          "displayValue": "0.79x",
+          "points": 0.3,
+          "maxPoints": 2.5,
+          "explanation": "无明显放量突破，动量缺失",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "均线斜率",
+          "rawValue": 27.4256325638745,
+          "displayValue": "27.43%",
+          "points": 2,
+          "maxPoints": 2,
+          "explanation": "200 日均线 30 天斜率 +27.43%，趋势加速上扬",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T16:42:04.052Z"
+    },
+    {
+      "ticker": "CEG",
+      "score": 0.3,
+      "signal": "AVOID",
+      "dataQuality": "full",
+      "daysOfData": 262,
+      "timestamp": "2026-05-19T16:42:04.939Z",
+      "breakdown": [
+        {
+          "factor": "52W高点接近度",
+          "rawValue": 0.6386681085236624,
+          "displayValue": "63.9%",
+          "points": 0,
+          "maxPoints": 3,
+          "explanation": "股价距 52 周高点 36.1%，远离高点，动量不足",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "200日均线位置",
+          "rawValue": 0.7938637800268029,
+          "displayValue": "-20.6%",
+          "points": 0,
+          "maxPoints": 2.5,
+          "explanation": "股价低于 200 日均线 20.6%，不在趋势之中",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "放量突破",
+          "rawValue": 0.5956310800518586,
+          "displayValue": "0.60x",
+          "points": 0.3,
+          "maxPoints": 2.5,
+          "explanation": "无明显放量突破，动量缺失",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "均线斜率",
+          "rawValue": -1.1823268155329678,
+          "displayValue": "-1.18%",
+          "points": 0,
+          "maxPoints": 2,
+          "explanation": "200 日均线向下倾斜（-1.18%），趋势偏空",
+          "sentiment": "negative"
+        }
+      ],
+      "refreshedAt": "2026-05-19T16:42:04.939Z"
+    },
+    {
+      "ticker": "VST",
+      "score": 0.3,
+      "signal": "AVOID",
+      "dataQuality": "full",
+      "daysOfData": 262,
+      "timestamp": "2026-05-19T16:42:04.946Z",
+      "breakdown": [
+        {
+          "factor": "52W高点接近度",
+          "rawValue": 0.6190574518760321,
+          "displayValue": "61.9%",
+          "points": 0,
+          "maxPoints": 3,
+          "explanation": "股价距 52 周高点 38.1%，远离高点，动量不足",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "200日均线位置",
+          "rawValue": 0.7709860464842052,
+          "displayValue": "-22.9%",
+          "points": 0,
+          "maxPoints": 2.5,
+          "explanation": "股价低于 200 日均线 22.9%，不在趋势之中",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "放量突破",
+          "rawValue": 0.6757697057445812,
+          "displayValue": "0.68x",
+          "points": 0.3,
+          "maxPoints": 2.5,
+          "explanation": "无明显放量突破，动量缺失",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "均线斜率",
+          "rawValue": -3.1819787437050913,
+          "displayValue": "-3.18%",
+          "points": 0,
+          "maxPoints": 2,
+          "explanation": "200 日均线向下倾斜（-3.18%），趋势偏空",
+          "sentiment": "negative"
+        }
+      ],
+      "refreshedAt": "2026-05-19T16:42:04.946Z"
+    },
+    {
+      "ticker": "SMR",
+      "score": 0.3,
+      "signal": "AVOID",
+      "dataQuality": "full",
+      "daysOfData": 262,
+      "timestamp": "2026-05-19T16:42:04.936Z",
+      "breakdown": [
+        {
+          "factor": "52W高点接近度",
+          "rawValue": 0.1851001338392561,
+          "displayValue": "18.5%",
+          "points": 0,
+          "maxPoints": 3,
+          "explanation": "股价距 52 周高点 81.5%，远离高点，动量不足",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "200日均线位置",
+          "rawValue": 0.421056458775759,
+          "displayValue": "-57.9%",
+          "points": 0,
+          "maxPoints": 2.5,
+          "explanation": "股价低于 200 日均线 57.9%，不在趋势之中",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "放量突破",
+          "rawValue": 0.590789839557648,
+          "displayValue": "0.59x",
+          "points": 0.3,
+          "maxPoints": 2.5,
+          "explanation": "无明显放量突破，动量缺失",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "均线斜率",
+          "rawValue": -16.416802210713293,
+          "displayValue": "-16.42%",
+          "points": 0,
+          "maxPoints": 2,
+          "explanation": "200 日均线向下倾斜（-16.42%），趋势偏空",
+          "sentiment": "negative"
+        }
+      ],
+      "refreshedAt": "2026-05-19T16:42:04.936Z"
+    },
+    {
+      "ticker": "CCJ",
+      "score": 3.8,
+      "signal": "WAIT",
+      "dataQuality": "full",
+      "daysOfData": 262,
+      "timestamp": "2026-05-19T16:42:04.969Z",
+      "breakdown": [
+        {
+          "factor": "52W高点接近度",
+          "rawValue": 0.7727646027036358,
+          "displayValue": "77.3%",
+          "points": 0,
+          "maxPoints": 3,
+          "explanation": "股价距 52 周高点 22.7%，远离高点，动量不足",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "200日均线位置",
+          "rawValue": 1.039586482494715,
+          "displayValue": "4.0%",
+          "points": 1.5,
+          "maxPoints": 2.5,
+          "explanation": "股价刚站上 200 日均线，多空分水岭",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "放量突破",
+          "rawValue": 0.5823780273212945,
+          "displayValue": "0.58x",
+          "points": 0.3,
+          "maxPoints": 2.5,
+          "explanation": "无明显放量突破，动量缺失",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "均线斜率",
+          "rawValue": 6.859825237136554,
+          "displayValue": "6.86%",
+          "points": 2,
+          "maxPoints": 2,
+          "explanation": "200 日均线 30 天斜率 +6.86%，趋势加速上扬",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T16:42:04.970Z"
+    },
+    {
+      "ticker": "ANET",
+      "score": 3.8,
+      "signal": "WAIT",
+      "dataQuality": "full",
+      "daysOfData": 262,
+      "timestamp": "2026-05-19T16:42:05.036Z",
+      "breakdown": [
+        {
+          "factor": "52W高点接近度",
+          "rawValue": 0.7864176426737163,
+          "displayValue": "78.6%",
+          "points": 0,
+          "maxPoints": 3,
+          "explanation": "股价距 52 周高点 21.4%，远离高点，动量不足",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "200日均线位置",
+          "rawValue": 1.0022038501031025,
+          "displayValue": "0.2%",
+          "points": 1.5,
+          "maxPoints": 2.5,
+          "explanation": "股价刚站上 200 日均线，多空分水岭",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "放量突破",
+          "rawValue": 0.4415728441742773,
+          "displayValue": "0.44x",
+          "points": 0.3,
+          "maxPoints": 2.5,
+          "explanation": "无明显放量突破，动量缺失",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "均线斜率",
+          "rawValue": 5.6697734950330645,
+          "displayValue": "5.67%",
+          "points": 2,
+          "maxPoints": 2,
+          "explanation": "200 日均线 30 天斜率 +5.67%，趋势加速上扬",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T16:42:05.036Z"
+    },
+    {
+      "ticker": "COHR",
+      "score": 5.8,
+      "signal": "WATCH",
+      "dataQuality": "full",
+      "daysOfData": 262,
+      "timestamp": "2026-05-19T16:42:05.915Z",
+      "breakdown": [
+        {
+          "factor": "52W高点接近度",
+          "rawValue": 0.8806983818162443,
+          "displayValue": "88.1%",
+          "points": 1,
+          "maxPoints": 3,
+          "explanation": "股价距 52 周高点 11.9%，尚有一定距离",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "200日均线位置",
+          "rawValue": 1.838184815263716,
+          "displayValue": "83.8%",
+          "points": 2.5,
+          "maxPoints": 2.5,
+          "explanation": "股价高于 200 日均线 83.8%，趋势强势",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "放量突破",
+          "rawValue": 0.4407659047645891,
+          "displayValue": "0.44x",
+          "points": 0.3,
+          "maxPoints": 2.5,
+          "explanation": "无明显放量突破，动量缺失",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "均线斜率",
+          "rawValue": 23.061341593673752,
+          "displayValue": "23.06%",
+          "points": 2,
+          "maxPoints": 2,
+          "explanation": "200 日均线 30 天斜率 +23.06%，趋势加速上扬",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T16:42:05.915Z"
+    },
+    {
+      "ticker": "LITE",
+      "score": 5.8,
+      "signal": "WATCH",
+      "dataQuality": "full",
+      "daysOfData": 262,
+      "timestamp": "2026-05-19T16:42:05.922Z",
+      "breakdown": [
+        {
+          "factor": "52W高点接近度",
+          "rawValue": 0.8462429724282603,
+          "displayValue": "84.6%",
+          "points": 1,
+          "maxPoints": 3,
+          "explanation": "股价距 52 周高点 15.4%，尚有一定距离",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "200日均线位置",
+          "rawValue": 2.0706778150086946,
+          "displayValue": "107.1%",
+          "points": 2.5,
+          "maxPoints": 2.5,
+          "explanation": "股价高于 200 日均线 107.1%，趋势强势",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "放量突破",
+          "rawValue": 0.48124444964236834,
+          "displayValue": "0.48x",
+          "points": 0.3,
+          "maxPoints": 2.5,
+          "explanation": "无明显放量突破，动量缺失",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "均线斜率",
+          "rawValue": 39.382317752148985,
+          "displayValue": "39.38%",
+          "points": 2,
+          "maxPoints": 2,
+          "explanation": "200 日均线 30 天斜率 +39.38%，趋势加速上扬",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T16:42:05.922Z"
+    },
+    {
+      "ticker": "CIEN",
+      "score": 5.8,
+      "signal": "WATCH",
+      "dataQuality": "full",
+      "daysOfData": 262,
+      "timestamp": "2026-05-19T16:42:05.920Z",
+      "breakdown": [
+        {
+          "factor": "52W高点接近度",
+          "rawValue": 0.8918724308813517,
+          "displayValue": "89.2%",
+          "points": 1,
+          "maxPoints": 3,
+          "explanation": "股价距 52 周高点 10.8%，尚有一定距离",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "200日均线位置",
+          "rawValue": 1.9893840104324263,
+          "displayValue": "98.9%",
+          "points": 2.5,
+          "maxPoints": 2.5,
+          "explanation": "股价高于 200 日均线 98.9%，趋势强势",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "放量突破",
+          "rawValue": 0.5338765263209323,
+          "displayValue": "0.53x",
+          "points": 0.3,
+          "maxPoints": 2.5,
+          "explanation": "无明显放量突破，动量缺失",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "均线斜率",
+          "rawValue": 32.97124892204612,
+          "displayValue": "32.97%",
+          "points": 2,
+          "maxPoints": 2,
+          "explanation": "200 日均线 30 天斜率 +32.97%，趋势加速上扬",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T16:42:05.920Z"
+    },
+    {
+      "ticker": "CRWD",
+      "score": 6.7,
+      "signal": "WATCH",
+      "dataQuality": "full",
+      "daysOfData": 262,
+      "timestamp": "2026-05-19T16:42:05.916Z",
+      "breakdown": [
+        {
+          "factor": "52W高点接近度",
+          "rawValue": 1,
+          "displayValue": "100.0%",
+          "points": 3,
+          "maxPoints": 3,
+          "explanation": "股价距 52 周高点仅 0.0%，处于突破区，动量强劲",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "200日均线位置",
+          "rawValue": 1.3399990578667738,
+          "displayValue": "34.0%",
+          "points": 2.5,
+          "maxPoints": 2.5,
+          "explanation": "股价高于 200 日均线 34.0%，趋势强势",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "放量突破",
+          "rawValue": 0.7961913874464196,
+          "displayValue": "0.80x",
+          "points": 1.2,
+          "maxPoints": 2.5,
+          "explanation": "创 20 日新高但成交量萎缩，突破可信度一般",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "均线斜率",
+          "rawValue": -0.21261635118533218,
+          "displayValue": "-0.21%",
+          "points": 0,
+          "maxPoints": 2,
+          "explanation": "200 日均线向下倾斜（-0.21%），趋势偏空",
+          "sentiment": "negative"
+        }
+      ],
+      "refreshedAt": "2026-05-19T16:42:05.916Z"
+    },
+    {
+      "ticker": "PANW",
+      "score": 5.8,
+      "signal": "WATCH",
+      "dataQuality": "full",
+      "daysOfData": 262,
+      "timestamp": "2026-05-19T16:42:05.921Z",
+      "breakdown": [
+        {
+          "factor": "52W高点接近度",
+          "rawValue": 0.9787921634608006,
+          "displayValue": "97.9%",
+          "points": 3,
+          "maxPoints": 3,
+          "explanation": "股价距 52 周高点仅 2.1%，处于突破区，动量强劲",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "200日均线位置",
+          "rawValue": 1.300211493645143,
+          "displayValue": "30.0%",
+          "points": 2.5,
+          "maxPoints": 2.5,
+          "explanation": "股价高于 200 日均线 30.0%，趋势强势",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "放量突破",
+          "rawValue": 0.7239958389444847,
+          "displayValue": "0.72x",
+          "points": 0.3,
+          "maxPoints": 2.5,
+          "explanation": "无明显放量突破，动量缺失",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "均线斜率",
+          "rawValue": -0.5648756956427803,
+          "displayValue": "-0.56%",
+          "points": 0,
+          "maxPoints": 2,
+          "explanation": "200 日均线向下倾斜（-0.56%），趋势偏空",
+          "sentiment": "negative"
+        }
+      ],
+      "refreshedAt": "2026-05-19T16:42:05.921Z"
+    },
+    {
+      "ticker": "ZS",
+      "score": 1.2,
+      "signal": "AVOID",
+      "dataQuality": "full",
+      "daysOfData": 262,
+      "timestamp": "2026-05-19T16:42:06.802Z",
+      "breakdown": [
+        {
+          "factor": "52W高点接近度",
+          "rawValue": 0.5205340916670864,
+          "displayValue": "52.1%",
+          "points": 0,
+          "maxPoints": 3,
+          "explanation": "股价距 52 周高点 47.9%，远离高点，动量不足",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "200日均线位置",
+          "rawValue": 0.7754587205761498,
+          "displayValue": "-22.5%",
+          "points": 0,
+          "maxPoints": 2.5,
+          "explanation": "股价低于 200 日均线 22.5%，不在趋势之中",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "放量突破",
+          "rawValue": 0.8873826711422147,
+          "displayValue": "0.89x",
+          "points": 1.2,
+          "maxPoints": 2.5,
+          "explanation": "创 20 日新高但成交量萎缩，突破可信度一般",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "均线斜率",
+          "rawValue": -9.46286350782989,
+          "displayValue": "-9.46%",
+          "points": 0,
+          "maxPoints": 2,
+          "explanation": "200 日均线向下倾斜（-9.46%），趋势偏空",
+          "sentiment": "negative"
+        }
+      ],
+      "refreshedAt": "2026-05-19T16:42:06.802Z"
+    },
+    {
+      "ticker": "S",
+      "score": 4.2,
+      "signal": "WAIT",
+      "dataQuality": "full",
+      "daysOfData": 262,
+      "timestamp": "2026-05-19T16:42:06.812Z",
+      "breakdown": [
+        {
+          "factor": "52W高点接近度",
+          "rawValue": 0.8733200568957631,
+          "displayValue": "87.3%",
+          "points": 1,
+          "maxPoints": 3,
+          "explanation": "股价距 52 周高点 12.7%，尚有一定距离",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "200日均线位置",
+          "rawValue": 1.1257059741647024,
+          "displayValue": "12.6%",
+          "points": 2,
+          "maxPoints": 2.5,
+          "explanation": "股价高于 200 日均线 12.6%，处于多头区间",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "放量突破",
+          "rawValue": 0.6110679408572013,
+          "displayValue": "0.61x",
+          "points": 1.2,
+          "maxPoints": 2.5,
+          "explanation": "创 20 日新高但成交量萎缩，突破可信度一般",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "均线斜率",
+          "rawValue": -3.2306083152038783,
+          "displayValue": "-3.23%",
+          "points": 0,
+          "maxPoints": 2,
+          "explanation": "200 日均线向下倾斜（-3.23%），趋势偏空",
+          "sentiment": "negative"
+        }
+      ],
+      "refreshedAt": "2026-05-19T16:42:06.812Z"
+    },
+    {
+      "ticker": "ISRG",
+      "score": 0.3,
+      "signal": "AVOID",
+      "dataQuality": "full",
+      "daysOfData": 262,
+      "timestamp": "2026-05-19T16:42:06.813Z",
+      "breakdown": [
+        {
+          "factor": "52W高点接近度",
+          "rawValue": 0.7430885159597391,
+          "displayValue": "74.3%",
+          "points": 0,
+          "maxPoints": 3,
+          "explanation": "股价距 52 周高点 25.7%，远离高点，动量不足",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "200日均线位置",
+          "rawValue": 0.8872817597062306,
+          "displayValue": "-11.3%",
+          "points": 0,
+          "maxPoints": 2.5,
+          "explanation": "股价低于 200 日均线 11.3%，不在趋势之中",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "放量突破",
+          "rawValue": 0.619774989481336,
+          "displayValue": "0.62x",
+          "points": 0.3,
+          "maxPoints": 2.5,
+          "explanation": "无明显放量突破，动量缺失",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "均线斜率",
+          "rawValue": -1.8250948492983543,
+          "displayValue": "-1.83%",
+          "points": 0,
+          "maxPoints": 2,
+          "explanation": "200 日均线向下倾斜（-1.83%），趋势偏空",
+          "sentiment": "negative"
+        }
+      ],
+      "refreshedAt": "2026-05-19T16:42:06.813Z"
+    },
+    {
+      "ticker": "TEM",
+      "score": 0.3,
+      "signal": "AVOID",
+      "dataQuality": "full",
+      "daysOfData": 262,
+      "timestamp": "2026-05-19T16:42:06.823Z",
+      "breakdown": [
+        {
+          "factor": "52W高点接近度",
+          "rawValue": 0.42489103081728585,
+          "displayValue": "42.5%",
+          "points": 0,
+          "maxPoints": 3,
+          "explanation": "股价距 52 周高点 57.5%，远离高点，动量不足",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "200日均线位置",
+          "rawValue": 0.6602214542528848,
+          "displayValue": "-34.0%",
+          "points": 0,
+          "maxPoints": 2.5,
+          "explanation": "股价低于 200 日均线 34.0%，不在趋势之中",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "放量突破",
+          "rawValue": 0.5174621148970352,
+          "displayValue": "0.52x",
+          "points": 0.3,
+          "maxPoints": 2.5,
+          "explanation": "无明显放量突破，动量缺失",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "均线斜率",
+          "rawValue": -2.3568625451894714,
+          "displayValue": "-2.36%",
+          "points": 0,
+          "maxPoints": 2,
+          "explanation": "200 日均线向下倾斜（-2.36%），趋势偏空",
+          "sentiment": "negative"
+        }
+      ],
+      "refreshedAt": "2026-05-19T16:42:06.823Z"
+    },
+    {
+      "ticker": "ITA",
+      "score": 4.8,
+      "signal": "WAIT",
+      "dataQuality": "full",
+      "daysOfData": 262,
+      "timestamp": "2026-05-19T16:42:06.845Z",
+      "breakdown": [
+        {
+          "factor": "52W高点接近度",
+          "rawValue": 0.8707997455366459,
+          "displayValue": "87.1%",
+          "points": 1,
+          "maxPoints": 3,
+          "explanation": "股价距 52 周高点 12.9%，尚有一定距离",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "200日均线位置",
+          "rawValue": 1.0047588046722518,
+          "displayValue": "0.5%",
+          "points": 1.5,
+          "maxPoints": 2.5,
+          "explanation": "股价刚站上 200 日均线，多空分水岭",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "放量突破",
+          "rawValue": 0.4034635868465343,
+          "displayValue": "0.40x",
+          "points": 0.3,
+          "maxPoints": 2.5,
+          "explanation": "无明显放量突破，动量缺失",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "均线斜率",
+          "rawValue": 2.3018220193857997,
+          "displayValue": "2.30%",
+          "points": 2,
+          "maxPoints": 2,
+          "explanation": "200 日均线 30 天斜率 +2.30%，趋势加速上扬",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T16:42:06.845Z"
+    },
+    {
+      "ticker": "RKLB",
+      "score": 6.8,
+      "signal": "WATCH",
+      "dataQuality": "full",
+      "daysOfData": 262,
+      "timestamp": "2026-05-19T16:42:07.715Z",
+      "breakdown": [
+        {
+          "factor": "52W高点接近度",
+          "rawValue": 0.9354205583484914,
+          "displayValue": "93.5%",
+          "points": 2,
+          "maxPoints": 3,
+          "explanation": "股价距 52 周高点 6.5%，相对靠近高点",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "200日均线位置",
+          "rawValue": 1.8855435591168501,
+          "displayValue": "88.6%",
+          "points": 2.5,
+          "maxPoints": 2.5,
+          "explanation": "股价高于 200 日均线 88.6%，趋势强势",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "放量突破",
+          "rawValue": 0.7779228177988163,
+          "displayValue": "0.78x",
+          "points": 0.3,
+          "maxPoints": 2.5,
+          "explanation": "无明显放量突破，动量缺失",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "均线斜率",
+          "rawValue": 12.655497617646668,
+          "displayValue": "12.66%",
+          "points": 2,
+          "maxPoints": 2,
+          "explanation": "200 日均线 30 天斜率 +12.66%，趋势加速上扬",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T16:42:07.715Z"
+    },
+    {
+      "ticker": "LMT",
+      "score": 2.8,
+      "signal": "AVOID",
+      "dataQuality": "full",
+      "daysOfData": 262,
+      "timestamp": "2026-05-19T16:42:07.803Z",
+      "breakdown": [
+        {
+          "factor": "52W高点接近度",
+          "rawValue": 0.7750701651737392,
+          "displayValue": "77.5%",
+          "points": 0,
+          "maxPoints": 3,
+          "explanation": "股价距 52 周高点 22.5%，远离高点，动量不足",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "200日均线位置",
+          "rawValue": 0.9907544301755937,
+          "displayValue": "-0.9%",
+          "points": 0.5,
+          "maxPoints": 2.5,
+          "explanation": "股价略低于 200 日均线 0.9%，趋势偏弱",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "放量突破",
+          "rawValue": 0.3374313719777848,
+          "displayValue": "0.34x",
+          "points": 0.3,
+          "maxPoints": 2.5,
+          "explanation": "无明显放量突破，动量缺失",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "均线斜率",
+          "rawValue": 2.8030478805088275,
+          "displayValue": "2.80%",
+          "points": 2,
+          "maxPoints": 2,
+          "explanation": "200 日均线 30 天斜率 +2.80%，趋势加速上扬",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T16:42:07.803Z"
+    },
+    {
+      "ticker": "CRWV",
+      "score": 0.8,
+      "signal": "AVOID",
+      "dataQuality": "full",
+      "daysOfData": 262,
+      "timestamp": "2026-05-19T16:42:07.737Z",
+      "breakdown": [
+        {
+          "factor": "52W高点接近度",
+          "rawValue": 0.5354069067173332,
+          "displayValue": "53.5%",
+          "points": 0,
+          "maxPoints": 3,
+          "explanation": "股价距 52 周高点 46.5%，远离高点，动量不足",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "200日均线位置",
+          "rawValue": 0.9802401288519595,
+          "displayValue": "-2.0%",
+          "points": 0.5,
+          "maxPoints": 2.5,
+          "explanation": "股价略低于 200 日均线 2.0%，趋势偏弱",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "放量突破",
+          "rawValue": 0.6364710636862507,
+          "displayValue": "0.64x",
+          "points": 0.3,
+          "maxPoints": 2.5,
+          "explanation": "无明显放量突破，动量缺失",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "均线斜率",
+          "rawValue": -3.8238774119560253,
+          "displayValue": "-3.82%",
+          "points": 0,
+          "maxPoints": 2,
+          "explanation": "200 日均线向下倾斜（-3.82%），趋势偏空",
+          "sentiment": "negative"
+        }
+      ],
+      "refreshedAt": "2026-05-19T16:42:07.737Z"
+    },
+    {
+      "ticker": "IREN",
+      "score": 4.3,
+      "signal": "WAIT",
+      "dataQuality": "full",
+      "daysOfData": 262,
+      "timestamp": "2026-05-19T16:42:07.718Z",
+      "breakdown": [
+        {
+          "factor": "52W高点接近度",
+          "rawValue": 0.6293678556180339,
+          "displayValue": "62.9%",
+          "points": 0,
+          "maxPoints": 3,
+          "explanation": "股价距 52 周高点 37.1%，远离高点，动量不足",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "200日均线位置",
+          "rawValue": 1.0881549182025547,
+          "displayValue": "8.8%",
+          "points": 2,
+          "maxPoints": 2.5,
+          "explanation": "股价高于 200 日均线 8.8%，处于多头区间",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "放量突破",
+          "rawValue": 0.5301919887030595,
+          "displayValue": "0.53x",
+          "points": 0.3,
+          "maxPoints": 2.5,
+          "explanation": "无明显放量突破，动量缺失",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "均线斜率",
+          "rawValue": 12.800488038827536,
+          "displayValue": "12.80%",
+          "points": 2,
+          "maxPoints": 2,
+          "explanation": "200 日均线 30 天斜率 +12.80%，趋势加速上扬",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T16:42:07.718Z"
+    },
+    {
+      "ticker": "APLD",
+      "score": 5.8,
+      "signal": "WATCH",
+      "dataQuality": "full",
+      "daysOfData": 262,
+      "timestamp": "2026-05-19T16:42:07.716Z",
+      "breakdown": [
+        {
+          "factor": "52W高点接近度",
+          "rawValue": 0.8003254620389839,
+          "displayValue": "80.0%",
+          "points": 1,
+          "maxPoints": 3,
+          "explanation": "股价距 52 周高点 20.0%，尚有一定距离",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "200日均线位置",
+          "rawValue": 1.329081686589822,
+          "displayValue": "32.9%",
+          "points": 2.5,
+          "maxPoints": 2.5,
+          "explanation": "股价高于 200 日均线 32.9%，趋势强势",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "放量突破",
+          "rawValue": 0.37931519799456154,
+          "displayValue": "0.38x",
+          "points": 0.3,
+          "maxPoints": 2.5,
+          "explanation": "无明显放量突破，动量缺失",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "均线斜率",
+          "rawValue": 15.484159774777261,
+          "displayValue": "15.48%",
+          "points": 2,
+          "maxPoints": 2,
+          "explanation": "200 日均线 30 天斜率 +15.48%，趋势加速上扬",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T16:42:07.716Z"
+    },
+    {
+      "ticker": "NBIS",
+      "score": 5.8,
+      "signal": "WATCH",
+      "dataQuality": "full",
+      "daysOfData": 262,
+      "timestamp": "2026-05-19T16:42:08.689Z",
+      "breakdown": [
+        {
+          "factor": "52W高点接近度",
+          "rawValue": 0.8916346506927415,
+          "displayValue": "89.2%",
+          "points": 1,
+          "maxPoints": 3,
+          "explanation": "股价距 52 周高点 10.8%，尚有一定距离",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "200日均线位置",
+          "rawValue": 1.8376217992604804,
+          "displayValue": "83.8%",
+          "points": 2.5,
+          "maxPoints": 2.5,
+          "explanation": "股价高于 200 日均线 83.8%，趋势强势",
+          "sentiment": "positive"
+        },
+        {
+          "factor": "放量突破",
+          "rawValue": 0.5132421148281673,
+          "displayValue": "0.51x",
+          "points": 0.3,
+          "maxPoints": 2.5,
+          "explanation": "无明显放量突破，动量缺失",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "均线斜率",
+          "rawValue": 19.489745404724754,
+          "displayValue": "19.49%",
+          "points": 2,
+          "maxPoints": 2,
+          "explanation": "200 日均线 30 天斜率 +19.49%，趋势加速上扬",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T16:42:08.689Z"
+    },
+    {
+      "ticker": "IONQ",
+      "score": 3.3,
+      "signal": "WAIT",
+      "dataQuality": "full",
+      "daysOfData": 262,
+      "timestamp": "2026-05-19T16:42:08.686Z",
+      "breakdown": [
+        {
+          "factor": "52W高点接近度",
+          "rawValue": 0.5831404686004257,
+          "displayValue": "58.3%",
+          "points": 0,
+          "maxPoints": 3,
+          "explanation": "股价距 52 周高点 41.7%，远离高点，动量不足",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "200日均线位置",
+          "rawValue": 1.016919245029146,
+          "displayValue": "1.7%",
+          "points": 1.5,
+          "maxPoints": 2.5,
+          "explanation": "股价刚站上 200 日均线，多空分水岭",
+          "sentiment": "neutral"
+        },
+        {
+          "factor": "放量突破",
+          "rawValue": 0.4354689282405786,
+          "displayValue": "0.44x",
+          "points": 0.3,
+          "maxPoints": 2.5,
+          "explanation": "无明显放量突破，动量缺失",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "均线斜率",
+          "rawValue": 0.8369240663279159,
+          "displayValue": "0.84%",
+          "points": 1.5,
+          "maxPoints": 2,
+          "explanation": "200 日均线斜率持续上扬（+0.84%），趋势健康",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T16:42:08.686Z"
+    },
+    {
+      "ticker": "RGTI",
+      "score": 2.3,
+      "signal": "AVOID",
+      "dataQuality": "full",
+      "daysOfData": 262,
+      "timestamp": "2026-05-19T16:42:08.683Z",
+      "breakdown": [
+        {
+          "factor": "52W高点接近度",
+          "rawValue": 0.28576500422196394,
+          "displayValue": "28.6%",
+          "points": 0,
+          "maxPoints": 3,
+          "explanation": "股价距 52 周高点 71.4%，远离高点，动量不足",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "200日均线位置",
+          "rawValue": 0.6990965096573538,
+          "displayValue": "-30.1%",
+          "points": 0,
+          "maxPoints": 2.5,
+          "explanation": "股价低于 200 日均线 30.1%，不在趋势之中",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "放量突破",
+          "rawValue": 0.414948268616789,
+          "displayValue": "0.41x",
+          "points": 0.3,
+          "maxPoints": 2.5,
+          "explanation": "无明显放量突破，动量缺失",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "均线斜率",
+          "rawValue": 2.6458477427814446,
+          "displayValue": "2.65%",
+          "points": 2,
+          "maxPoints": 2,
+          "explanation": "200 日均线 30 天斜率 +2.65%，趋势加速上扬",
+          "sentiment": "positive"
+        }
+      ],
+      "refreshedAt": "2026-05-19T16:42:08.683Z"
+    },
+    {
+      "ticker": "QUBT",
+      "score": 0.3,
+      "signal": "AVOID",
+      "dataQuality": "full",
+      "daysOfData": 262,
+      "timestamp": "2026-05-19T16:42:08.683Z",
+      "breakdown": [
+        {
+          "factor": "52W高点接近度",
+          "rawValue": 0.379163270509362,
+          "displayValue": "37.9%",
+          "points": 0,
+          "maxPoints": 3,
+          "explanation": "股价距 52 周高点 62.1%，远离高点，动量不足",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "200日均线位置",
+          "rawValue": 0.7586562848254221,
+          "displayValue": "-24.1%",
+          "points": 0,
+          "maxPoints": 2.5,
+          "explanation": "股价低于 200 日均线 24.1%，不在趋势之中",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "放量突破",
+          "rawValue": 0.38891826163674587,
+          "displayValue": "0.39x",
+          "points": 0.3,
+          "maxPoints": 2.5,
+          "explanation": "无明显放量突破，动量缺失",
+          "sentiment": "negative"
+        },
+        {
+          "factor": "均线斜率",
+          "rawValue": -9.436066131557906,
+          "displayValue": "-9.44%",
+          "points": 0,
+          "maxPoints": 2,
+          "explanation": "200 日均线向下倾斜（-9.44%），趋势偏空",
+          "sentiment": "negative"
+        }
+      ],
+      "refreshedAt": "2026-05-19T16:42:08.683Z"
+    }
+  ]
+}

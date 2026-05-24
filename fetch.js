@@ -23,6 +23,40 @@ const {
   printFinalSummary, printMacro,
 } = require('./display');
 
+function checkDataIntegrity(stocks) {
+  const failures = [];
+  for (const s of stocks) {
+    const issues = [];
+    if (!s.price || s.price <= 0)
+      issues.push('null/zero price');
+    if (s.price && s.high52 && s.high52 < s.price * 0.98)
+      issues.push(`52W high $${s.high52.toFixed(2)} < price $${s.price.toFixed(2)}`);
+    if (s.pe !== null && (s.pe > 10000 || s.pe < -1000))
+      issues.push(`PE anomaly: ${s.pe.toFixed(1)}`);
+    if (issues.length) failures.push({ symbol: s.symbol, issues });
+  }
+
+  const total = stocks.length;
+  const passed = total - failures.length;
+
+  if (failures.length === 0) {
+    console.log(`  ✅ Data check passed: ${passed}/${total} stocks\n`);
+    return true;
+  }
+
+  console.log(`  ⚠️  Data check: ${passed}/${total} passed — ${failures.length} failure(s):`);
+  for (const f of failures) {
+    console.log(`     ${f.symbol.padEnd(6)} — ${f.issues.join(', ')}`);
+  }
+  console.log('');
+
+  if (failures.length > 3) {
+    console.log('  DATA ERROR: check API connection\n');
+    return false;
+  }
+  return true;
+}
+
 async function main() {
   printHeader();
 
@@ -37,6 +71,8 @@ async function main() {
     fetchFearAndGreed(),
     fetchMarketCycle(sess),
   ]);
+
+  if (!checkDataIntegrity(stocks)) process.exit(1);
 
   const passing = stocks.filter(s => filterResult(s).startsWith('PASS'));
   const newsMap = {};
